@@ -9204,5 +9204,901 @@
     "file": "学习/reviews.md",
     "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/学习/reviews.md",
     "license": "CC0"
+  },
+  {
+    "id": "virtual-doctor",
+    "title": "Virtual Doctor",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "virtual"
+    ],
+    "description": "Act as a Virtual Doctor. You are a knowledgeable healthcare AI with expertise in diagnosing illnesse...",
+    "stars": 2792,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/virtual-doctor.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/virtual-doctor.md",
+    "license": "CC0"
+  },
+  {
+    "id": "acls-master-simulator",
+    "title": "ACLS Master Simulator",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "acls"
+    ],
+    "description": "Persona  You are a highly skilled Medical Education Specialist and ACLS/BLS Instructor. Your tone is...",
+    "stars": 896,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/acls-master-simulator.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/acls-master-simulator.md",
+    "license": "CC0"
+  },
+  {
+    "id": "dentist",
+    "title": "Dentist",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "dentist"
+    ],
+    "description": "I want you to act as a dentist. I will provide you with details on an individual looking for dental ...",
+    "stars": 1537,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/dentist.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/dentist.md",
+    "license": "CC0"
+  },
+  {
+    "id": "pharmacy-research-assistant",
+    "title": "Pharmacy Research Assistant",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "pharmacy"
+    ],
+    "description": "Act as a Pharmacy Research Assistant. You are an expert in supporting pharmaceutical research teams ...",
+    "stars": 2300,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/pharmacy-research-assistant.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/pharmacy-research-assistant.md",
+    "license": "CC0"
+  },
+  {
+    "id": "through-the-glass-one-eye-in-focus",
+    "title": "Through the Glass: One Eye in Focus",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "through"
+    ],
+    "description": "A cinematic, close-up portrait of a reference photo viewed through a reflective glass window. She ha...",
+    "stars": 20652,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/through-the-glass-one-eye-in-focus.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/through-the-glass-one-eye-in-focus.md",
+    "license": "CC0"
+  },
+  {
+    "id": "medical-consultant",
+    "title": "Medical Consultant",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "medical"
+    ],
+    "description": "Act as a Medical Consultant. You are an experienced healthcare professional with a deep understandin...",
+    "stars": 7578,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/medical-consultant.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/medical-consultant.md",
+    "license": "CC0"
+  },
+  {
+    "id": "dermatology-consultation-guide",
+    "title": "Dermatology Consultation Guide",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "dermatology"
+    ],
+    "description": "Act as a Dermatologist. You are an expert in dermatology, specializing in the diagnosis and treatmen...",
+    "stars": 202,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/dermatology-consultation-guide.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/dermatology-consultation-guide.md",
+    "license": "CC0"
+  },
+  {
+    "id": "diabetes-treatment-advisor",
+    "title": "Diabetes Treatment Advisor",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "diabetes"
+    ],
+    "description": "Act as a Diabetes Treatment Advisor. You are an expert in diabetes management with extensive knowled...",
+    "stars": 9707,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/diabetes-treatment-advisor.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/diabetes-treatment-advisor.md",
+    "license": "CC0"
+  },
+  {
+    "id": "emergency-response-professional",
+    "title": "Emergency Response Professional",
+    "category": "健康",
+    "tags": [
+      "健康",
+      "emergency"
+    ],
+    "description": "I want you to act as my first aid traffic or house accident emergency response crisis professional. ...",
+    "stars": 1186,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "健康/emergency-response-professional.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/健康/emergency-response-professional.md",
+    "license": "CC0"
+  },
+  {
+    "id": "legal-advisor",
+    "title": "Legal Advisor",
+    "category": "法律",
+    "tags": [
+      "法律",
+      "legal"
+    ],
+    "description": "I want you to act as my legal advisor. I will describe a legal situation and you will provide advice...",
+    "stars": 1672,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "法律/legal-advisor.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/法律/legal-advisor.md",
+    "license": "CC0"
+  },
+  {
+    "id": "trade-contract-review-expert",
+    "title": "Trade Contract Review Expert",
+    "category": "法律",
+    "tags": [
+      "法律",
+      "trade"
+    ],
+    "description": "Act as a Trade Contract Review Expert. Your role is to meticulously analyze trade contracts for ${in...",
+    "stars": 1005,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "法律/trade-contract-review-expert.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/法律/trade-contract-review-expert.md",
+    "license": "CC0"
+  },
+  {
+    "id": "business-legal-assistant",
+    "title": "Business Legal Assistant",
+    "category": "法律",
+    "tags": [
+      "法律",
+      "business"
+    ],
+    "description": "--- name: business-legal-assistant description: Assists businesses with legal inquiries, document pr...",
+    "stars": 1694,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "法律/business-legal-assistant.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/法律/business-legal-assistant.md",
+    "license": "CC0"
+  },
+  {
+    "id": "startup-tech-lawyer",
+    "title": "Startup Tech Lawyer",
+    "category": "法律",
+    "tags": [
+      "法律",
+      "startup"
+    ],
+    "description": "I will ask of you to prepare a 1 page draft of a design partner agreement between a tech startup wit...",
+    "stars": 310,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "法律/startup-tech-lawyer.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/法律/startup-tech-lawyer.md",
+    "license": "CC0"
+  },
+  {
+    "id": "legal-risk-minimization-tool-for-freelancers",
+    "title": "Legal Risk Minimization Tool for Freelancers",
+    "category": "法律",
+    "tags": [
+      "法律",
+      "legal"
+    ],
+    "description": "Build a legal risk reduction tool for freelancers called \"Shield\" — a contract generator and reviewe...",
+    "stars": 27301,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "法律/legal-risk-minimization-tool-for-freelancers.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/法律/legal-risk-minimization-tool-for-freelancers.md",
+    "license": "CC0"
+  },
+  {
+    "id": "babysitter",
+    "title": "Babysitter",
+    "category": "育儿",
+    "tags": [
+      "育儿",
+      "babysitter"
+    ],
+    "description": "I want you to act as a babysitter. You will be responsible for supervising young children, preparing...",
+    "stars": 1747,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "育儿/babysitter.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/育儿/babysitter.md",
+    "license": "CC0"
+  },
+  {
+    "id": "children-s-book-creator",
+    "title": "Children's Book Creator",
+    "category": "育儿",
+    "tags": [
+      "育儿",
+      "children's"
+    ],
+    "description": "I want you to act as a Children's Book Creator. You excel at writing stories in a way that children ...",
+    "stars": 1321,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "育儿/children-s-book-creator.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/育儿/children-s-book-creator.md",
+    "license": "CC0"
+  },
+  {
+    "id": "school-life-mentor",
+    "title": "School Life Mentor",
+    "category": "育儿",
+    "tags": [
+      "育儿",
+      "school"
+    ],
+    "description": "I want you to be my school mentor guide me not to just graduate with first class but to also laverag...",
+    "stars": 3598,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "育儿/school-life-mentor.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/育儿/school-life-mentor.md",
+    "license": "CC0"
+  },
+  {
+    "id": "instructor-in-a-school",
+    "title": "Instructor in a School",
+    "category": "教育",
+    "tags": [
+      "教育",
+      "instructor"
+    ],
+    "description": "I want you to act as an instructor in a school, teaching algorithms to beginners. You will provide c...",
+    "stars": 8491,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "教育/instructor-in-a-school.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/教育/instructor-in-a-school.md",
+    "license": "CC0"
+  },
+  {
+    "id": "educational-content-creator",
+    "title": "Educational Content Creator",
+    "category": "教育",
+    "tags": [
+      "教育",
+      "educational"
+    ],
+    "description": "I want you to act as an educational content creator. You will need to create engaging and informativ...",
+    "stars": 9178,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "教育/educational-content-creator.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/教育/educational-content-creator.md",
+    "license": "CC0"
+  },
+  {
+    "id": "course-assignment-grader",
+    "title": "Course Assignment Grader",
+    "category": "教育",
+    "tags": [
+      "教育",
+      "course"
+    ],
+    "description": "Act as a Course Assignment Grader. You are an expert in evaluating assignments across various course...",
+    "stars": 1314,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "教育/course-assignment-grader.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/教育/course-assignment-grader.md",
+    "license": "CC0"
+  },
+  {
+    "id": "fill-in-the-blank-worksheets-generator",
+    "title": "Fill in the Blank Worksheets Generator",
+    "category": "教育",
+    "tags": [
+      "教育",
+      "fill"
+    ],
+    "description": "I want you to act as a fill in the blank worksheets generator for students learning English as a sec...",
+    "stars": 1592,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "教育/fill-in-the-blank-worksheets-generator.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/教育/fill-in-the-blank-worksheets-generator.md",
+    "license": "CC0"
+  },
+  {
+    "id": "innovative-math-teaching-method",
+    "title": "Innovative Math Teaching Method",
+    "category": "教育",
+    "tags": [
+      "教育",
+      "innovative"
+    ],
+    "description": "Act as a creative math educator. You are tasked with developing a unique teaching method for mathema...",
+    "stars": 1436,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "教育/innovative-math-teaching-method.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/教育/innovative-math-teaching-method.md",
+    "license": "CC0"
+  },
+  {
+    "id": "act-as-an-etsy-niche-product-researcher",
+    "title": "Act as an Etsy Niche Product Researcher",
+    "category": "电商",
+    "tags": [
+      "电商",
+      "act"
+    ],
+    "description": "Act as an Etsy Niche Product Researcher. You are an expert in identifying niche markets and trending...",
+    "stars": 1498,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "电商/act-as-an-etsy-niche-product-researcher.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/电商/act-as-an-etsy-niche-product-researcher.md",
+    "license": "CC0"
+  },
+  {
+    "id": "senior-market-research-analyst-specializing-in-digital-adver",
+    "title": "senior market research analyst specializing in digital advertising and cross-border e-commerce.",
+    "category": "电商",
+    "tags": [
+      "电商",
+      "senior"
+    ],
+    "description": "Role: Act as a senior market research analyst specializing in digital advertising and cross-border e...",
+    "stars": 7483,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "电商/senior-market-research-analyst-specializing-in-digital-adver.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/电商/senior-market-research-analyst-specializing-in-digital-adver.md",
+    "license": "CC0"
+  },
+  {
+    "id": "电商选品助手",
+    "title": "电商选品助手",
+    "category": "电商",
+    "tags": [
+      "电商",
+      "电商选品助手"
+    ],
+    "description": "Act as an E-commerce Product Selection Assistant. You are an expert in identifying high-potential pr...",
+    "stars": 21180,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "电商/电商选品助手.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/电商/电商选品助手.md",
+    "license": "CC0"
+  },
+  {
+    "id": "restaurant-owner",
+    "title": "Restaurant Owner",
+    "category": "餐饮",
+    "tags": [
+      "餐饮",
+      "restaurant"
+    ],
+    "description": "I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you woul...",
+    "stars": 1644,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "餐饮/restaurant-owner.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/餐饮/restaurant-owner.md",
+    "license": "CC0"
+  },
+  {
+    "id": "food-critic",
+    "title": "Food Critic",
+    "category": "餐饮",
+    "tags": [
+      "餐饮",
+      "food"
+    ],
+    "description": "I want you to act as a food critic. I will tell you about a restaurant and you will provide a review...",
+    "stars": 7615,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "餐饮/food-critic.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/餐饮/food-critic.md",
+    "license": "CC0"
+  },
+  {
+    "id": "tea-taster",
+    "title": "Tea-Taster",
+    "category": "餐饮",
+    "tags": [
+      "餐饮",
+      "tea-taster"
+    ],
+    "description": "Want somebody experienced enough to distinguish between various tea types based upon flavor profile ...",
+    "stars": 1299,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "餐饮/tea-taster.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/餐饮/tea-taster.md",
+    "license": "CC0"
+  },
+  {
+    "id": "personal-chef",
+    "title": "Personal Chef",
+    "category": "餐饮",
+    "tags": [
+      "餐饮",
+      "personal"
+    ],
+    "description": "I want you to act as my personal chef. I will tell you about my dietary preferences and allergies, a...",
+    "stars": 2507,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "餐饮/personal-chef.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/餐饮/personal-chef.md",
+    "license": "CC0"
+  },
+  {
+    "id": "real-estate-agent",
+    "title": "Real Estate Agent",
+    "category": "房产",
+    "tags": [
+      "房产",
+      "real"
+    ],
+    "description": "I want you to act as a real estate agent. I will provide you with details on an individual looking f...",
+    "stars": 1880,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "房产/real-estate-agent.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/房产/real-estate-agent.md",
+    "license": "CC0"
+  },
+  {
+    "id": "interior-decorator",
+    "title": "Interior Decorator",
+    "category": "房产",
+    "tags": [
+      "房产",
+      "interior"
+    ],
+    "description": "I want you to act as an interior decorator. Tell me what kind of theme and design approach should be...",
+    "stars": 239,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "房产/interior-decorator.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/房产/interior-decorator.md",
+    "license": "CC0"
+  },
+  {
+    "id": "accountant",
+    "title": "Accountant",
+    "category": "金融",
+    "tags": [
+      "金融",
+      "accountant"
+    ],
+    "description": "I want you to act as an accountant and come up with creative ways to manage finances. You'll need to...",
+    "stars": 6325,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "金融/accountant.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/金融/accountant.md",
+    "license": "CC0"
+  },
+  {
+    "id": "financial-analyst",
+    "title": "Financial Analyst",
+    "category": "金融",
+    "tags": [
+      "金融",
+      "financial"
+    ],
+    "description": "Want assistance provided by qualified individuals enabled with experience on understanding charts us...",
+    "stars": 720,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "金融/financial-analyst.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/金融/financial-analyst.md",
+    "license": "CC0"
+  },
+  {
+    "id": "investment-manager",
+    "title": "Investment Manager",
+    "category": "金融",
+    "tags": [
+      "金融",
+      "investment"
+    ],
+    "description": "Seeking guidance from experienced staff with expertise on financial markets , incorporating factors ...",
+    "stars": 1970,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "金融/investment-manager.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/金融/investment-manager.md",
+    "license": "CC0"
+  },
+  {
+    "id": "automobile-mechanic",
+    "title": "Automobile Mechanic",
+    "category": "汽车",
+    "tags": [
+      "汽车",
+      "automobile"
+    ],
+    "description": "Need somebody with expertise on automobiles regarding troubleshooting solutions like; diagnosing pro...",
+    "stars": 9944,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "汽车/automobile-mechanic.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/汽车/automobile-mechanic.md",
+    "license": "CC0"
+  },
+  {
+    "id": "car-navigation-system",
+    "title": "Car Navigation System",
+    "category": "汽车",
+    "tags": [
+      "汽车",
+      "car"
+    ],
+    "description": "I want you to act as a car navigation system. You will develop algorithms for calculating the best r...",
+    "stars": 6541,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "汽车/car-navigation-system.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/汽车/car-navigation-system.md",
+    "license": "CC0"
+  },
+  {
+    "id": "ai-customer-support-specialist",
+    "title": "AI Customer Support Specialist",
+    "category": "客服",
+    "tags": [
+      "客服",
+      "ai"
+    ],
+    "description": "Act as an AI Customer Support Specialist. You are an expert in managing customer inquiries and provi...",
+    "stars": 516,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "客服/ai-customer-support-specialist.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/客服/ai-customer-support-specialist.md",
+    "license": "CC0"
+  },
+  {
+    "id": "customer-complaint-reply-system",
+    "title": "Customer Complaint Reply System",
+    "category": "客服",
+    "tags": [
+      "客服",
+      "customer"
+    ],
+    "description": "You are a customer support communication specialist trained in complaint de-escalation and brand-saf...",
+    "stars": 1962,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "客服/customer-complaint-reply-system.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/客服/customer-complaint-reply-system.md",
+    "license": "CC0"
+  },
+  {
+    "id": "pet-behaviorist",
+    "title": "Pet Behaviorist",
+    "category": "宠物",
+    "tags": [
+      "宠物",
+      "pet"
+    ],
+    "description": "I want you to act as a pet behaviorist. I will provide you with a pet and their owner and your goal ...",
+    "stars": 908,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "宠物/pet-behaviorist.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/宠物/pet-behaviorist.md",
+    "license": "CC0"
+  },
+  {
+    "id": "classical-music-composer",
+    "title": "Classical Music Composer",
+    "category": "音乐",
+    "tags": [
+      "音乐",
+      "classical"
+    ],
+    "description": "I want you to act as a classical music composer. You will create an original musical piece for a cho...",
+    "stars": 230,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "音乐/classical-music-composer.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/音乐/classical-music-composer.md",
+    "license": "CC0"
+  },
+  {
+    "id": "acoustic-guitar-composer",
+    "title": "Acoustic Guitar Composer",
+    "category": "音乐",
+    "tags": [
+      "音乐",
+      "acoustic"
+    ],
+    "description": "I want you to act as a acoustic guitar composer. I will provide you of an initial musical note and a...",
+    "stars": 1452,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "音乐/acoustic-guitar-composer.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/音乐/acoustic-guitar-composer.md",
+    "license": "CC0"
+  },
+  {
+    "id": "song-recommender",
+    "title": "Song Recommender",
+    "category": "音乐",
+    "tags": [
+      "音乐",
+      "song"
+    ],
+    "description": "I want you to act as a song recommender. I will provide you with a song and you will create a playli...",
+    "stars": 26815,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "音乐/song-recommender.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/音乐/song-recommender.md",
+    "license": "CC0"
+  },
+  {
+    "id": "career-coach",
+    "title": "Career Coach",
+    "category": "职场",
+    "tags": [
+      "职场",
+      "career"
+    ],
+    "description": "I want you to act as a career coach. I will provide details about my professional background, skills...",
+    "stars": 12189,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "职场/career-coach.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/职场/career-coach.md",
+    "license": "CC0"
+  },
+  {
+    "id": "cover-letter",
+    "title": "Cover Letter",
+    "category": "职场",
+    "tags": [
+      "职场",
+      "cover"
+    ],
+    "description": "In order to submit applications for jobs, I want to write a new cover letter. Please compose a cover...",
+    "stars": 28809,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "职场/cover-letter.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/职场/cover-letter.md",
+    "license": "CC0"
+  },
+  {
+    "id": "recruiter",
+    "title": "Recruiter",
+    "category": "职场",
+    "tags": [
+      "职场",
+      "recruiter"
+    ],
+    "description": "I want you to act as a recruiter. I will provide some information about job openings, and it will be...",
+    "stars": 613,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "职场/recruiter.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/职场/recruiter.md",
+    "license": "CC0"
+  },
+  {
+    "id": "travel-guide",
+    "title": "Travel Guide",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "travel"
+    ],
+    "description": "I want you to act as a travel guide. I will write you my location and you will suggest a place to vi...",
+    "stars": 364,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/travel-guide.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/travel-guide.md",
+    "license": "CC0"
+  },
+  {
+    "id": "camp-planner",
+    "title": "Camp Planner",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "camp"
+    ],
+    "description": "{   \"research_config\": {     \"topic\": \"Logistics-Oriented and Car-Free Camping Planning Analysis\",  ...",
+    "stars": 288,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/camp-planner.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/camp-planner.md",
+    "license": "CC0"
+  },
+  {
+    "id": "dream-interpreter",
+    "title": "Dream Interpreter",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "dream"
+    ],
+    "description": "I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will pr...",
+    "stars": 1564,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/dream-interpreter.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/dream-interpreter.md",
+    "license": "CC0"
+  },
+  {
+    "id": "biblical-translator",
+    "title": "Biblical Translator",
+    "category": "灵修",
+    "tags": [
+      "灵修",
+      "biblical"
+    ],
+    "description": "I want you to act as an biblical translator. I will speak to you in english and you will translate i...",
+    "stars": 392,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "灵修/biblical-translator.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/灵修/biblical-translator.md",
+    "license": "CC0"
+  },
+  {
+    "id": "muslim-imam",
+    "title": "Muslim Imam",
+    "category": "灵修",
+    "tags": [
+      "灵修",
+      "muslim"
+    ],
+    "description": "Act as a Muslim imam who gives me guidance and advice on how to deal with life problems. Use your kn...",
+    "stars": 913,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "灵修/muslim-imam.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/灵修/muslim-imam.md",
+    "license": "CC0"
+  },
+  {
+    "id": "astrologer",
+    "title": "Astrologer",
+    "category": "灵修",
+    "tags": [
+      "灵修",
+      "astrologer"
+    ],
+    "description": "I want you to act as an astrologer. You will learn about the zodiac signs and their meanings, unders...",
+    "stars": 1205,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "灵修/astrologer.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/灵修/astrologer.md",
+    "license": "CC0"
+  },
+  {
+    "id": "diy-expert",
+    "title": "DIY Expert",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "diy"
+    ],
+    "description": "I want you to act as a DIY expert. You will develop the skills necessary to complete simple home imp...",
+    "stars": 785,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/diy-expert.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/diy-expert.md",
+    "license": "CC0"
+  },
+  {
+    "id": "florist",
+    "title": "Florist",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "florist"
+    ],
+    "description": "Calling out for assistance from knowledgeable personnel with experience of arranging flowers profess...",
+    "stars": 552,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/florist.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/florist.md",
+    "license": "CC0"
+  },
+  {
+    "id": "makeup-artist",
+    "title": "Makeup Artist",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "makeup"
+    ],
+    "description": "I want you to act as a makeup artist. You will apply cosmetics on clients in order to enhance featur...",
+    "stars": 5954,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/makeup-artist.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/makeup-artist.md",
+    "license": "CC0"
+  },
+  {
+    "id": "personal-stylist",
+    "title": "Personal Stylist",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "personal"
+    ],
+    "description": "I want you to act as my personal stylist. I will tell you about my fashion preferences and body type...",
+    "stars": 9981,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/personal-stylist.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/personal-stylist.md",
+    "license": "CC0"
+  },
+  {
+    "id": "personal-shopper",
+    "title": "Personal Shopper",
+    "category": "生活",
+    "tags": [
+      "生活",
+      "personal"
+    ],
+    "description": "I want you to act as my personal shopper. I will tell you my budget and preferences, and you will su...",
+    "stars": 1476,
+    "source_repo": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "file": "生活/personal-shopper.md",
+    "download_url": "https://raw.githubusercontent.com/chenyangxu442-ai/skills-library/main/生活/personal-shopper.md",
+    "license": "CC0"
   }
 ]
