@@ -393,7 +393,7 @@
       "提交",
       "规范"
     ],
-    "description": "生成 Convential Commits 规范的提交信息",
+    "description": "自动生成Git 提交信息，一键输出规范格式",
     "stars": 5763,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -411,7 +411,7 @@
       "GitHub",
       "版本控制"
     ],
-    "description": "Git 操作卡住了？问 AI",
+    "description": "Git/GitHub 领域资深专家，提供专业指导",
     "stars": 1694,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -429,7 +429,7 @@
       "提示词",
       "工具"
     ],
-    "description": "不会写 prompt？让 AI 帮你写",
+    "description": "自动生成提示词，一键输出规范格式",
     "stars": 965,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -645,7 +645,7 @@
       "求职信",
       "简历"
     ],
-    "description": "一键生成专业求职信",
+    "description": "自动生成求职信，一键输出规范格式",
     "stars": 1742,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -663,7 +663,7 @@
       "故事",
       "学习"
     ],
-    "description": "从零开始学创意写作",
+    "description": "AI创意故事导师，系统化教学指导",
     "stars": 1077,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -717,7 +717,7 @@
       "PRD",
       "需求"
     ],
-    "description": "写 PRD、用户故事、产品需求",
+    "description": "产品经理智能助手，帮你高效完成任务",
     "stars": 1739,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -951,7 +951,7 @@
       "心理",
       "解读"
     ],
-    "description": "描述你的梦，AI 帮你分析",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1217,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -969,7 +969,7 @@
       "占星",
       "性格"
     ],
-    "description": "了解星座性格和运势",
+    "description": "AI星座分析师，数据驱动深度洞察",
     "stars": 1018,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1239,7 +1239,7 @@
       "压力",
       "情绪"
     ],
-    "description": "科学管理压力和情绪",
+    "description": "AI心理健康顾问，提供个性化建议",
     "stars": 379,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1329,7 +1329,7 @@
       "设计",
       "图形"
     ],
-    "description": "描述一下，AI 生成 SVG 图形",
+    "description": "AISVG 图形设计师，创意方案一键生成",
     "stars": 1082,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1473,7 +1473,7 @@
       "求职",
       "面试"
     ],
-    "description": "让资深 HR 帮你打磨简历",
+    "description": "AI简历优化师，精细打磨提升效果",
     "stars": 1456,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1490,7 +1490,7 @@
       "职场",
       "socratic"
     ],
-    "description": "AI扮演Socratic Lens角色，---\nname: socratic-lens\ndescription: It helps spot which questions actually chan...",
+    "description": "通过苏格拉底式提问，帮助深度思考与理解问题本质",
     "stars": 1575,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1507,7 +1507,7 @@
       "编程",
       "mcp"
     ],
-    "description": "AI扮演MCP Builder角色，---\nname: mcp-builder\ndescription: Guide for creating high-quality MCP (Model Co...",
+    "description": "指导创建高质量的 MCP 服务器，让 LLM 通过工具与外部服务交互",
     "stars": 556,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1523,7 +1523,7 @@
       "编程",
       "base"
     ],
-    "description": "AI扮演base-R角色，---\nname: base-r\ndescription: Provides base R programming guidance covering data...",
+    "description": "R 语言编程指导，数据科学与统计分析基础支持",
     "stars": 1414,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1541,7 +1541,7 @@
       "expert",
       "写作"
     ],
-    "description": "AI扮演Prompt Engineering Expert角色，---\nname: prompt-engineering-expert\ndescription: This skill equips Claude with d...",
+    "description": "提示词工程专家，优化 AI 交互效果",
     "stars": 1356,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1558,7 +1558,7 @@
       "skill",
       "编程"
     ],
-    "description": "AI扮演skill-master角色，---\nname: skill-master\ndescription: Discover codebase patterns and auto-generate...",
+    "description": "自动发现和分析代码库中的模式与架构设计",
     "stars": 587,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1576,7 +1576,7 @@
       "编程",
       "md"
     ],
-    "description": "AI扮演claude-md-master角色，---\nname: claude-md-master\ndescription: Master skill for CLAUDE.md lifecycle - c...",
+    "description": "创建和管理 Claude Code 自定义技能的专家指南",
     "stars": 5199,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1598,7 +1598,7 @@
       "level",
       "编程"
     ],
-    "description": "AI扮演Comprehensive Python Codebase Review - Forensic-Level Analysis Prompt角色，# COMPREHENSIVE PYTHON CODEBASE REVIEW\n\nYou are an expert Python code reviewer w...",
+    "description": "Python 代码深度审查，法医级别的问题诊断与改进建议",
     "stars": 2202,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1620,7 +1620,7 @@
       "level",
       "写作"
     ],
-    "description": "AI扮演Comprehensive Go Codebase Review - Forensic-Level Analysis Prompt角色，# COMPREHENSIVE GO CODEBASE REVIEW\n\nYou are an expert Go code reviewer with 20+ ...",
+    "description": "Go 代码深度审查，法医级别的问题诊断与改进建议",
     "stars": 861,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1639,7 +1639,7 @@
       "maintenance",
       "assistant"
     ],
-    "description": "AI扮演Household Maintenance & Safety Assistant角色，# ==========================================================\n# Prompt Name: Hous...",
+    "description": "家居维护安全助手，DIY 项目的安全指南",
     "stars": 479,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1661,7 +1661,7 @@
       "dig",
       "compile"
     ],
-    "description": "AI扮演Go Industrial Autonomous Business Module Coding Spec (shanjunmei/dig Compile-Time DI)角色，<!-- LLM System Prompt Start -->\n# LLM Skill: Go Industrial Autonomous Business ...",
+    "description": "Go 工业级业务模块编码规范与依赖注入实践",
     "stars": 882,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1682,7 +1682,7 @@
       "forensic",
       "autopsy"
     ],
-    "description": "AI扮演PHP Microscope: Forensic Codebase Autopsy Protocol角色，# COMPREHENSIVE PHP CODEBASE REVIEW\n\nYou are an expert PHP code reviewer with 20...",
+    "description": "PHP 代码深度审查，法医级别的问题诊断",
     "stars": 556,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1702,7 +1702,7 @@
       "写作",
       "wordpilot"
     ],
-    "description": "AI扮演Lead Generator & Tracker (WordPilot.pro)角色，# Lead Generator & Tracker (WordPilot.pro)\n\nUse this playbook to research, quali...",
+    "description": "自动生成和追踪销售线索，提升获客转化效率",
     "stars": 1999,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1721,7 +1721,7 @@
       "documentation",
       "context"
     ],
-    "description": "AI扮演Context7 Documentation Expert Agent角色，---\nname: Context7-Expert\ndescription: 'Expert in latest library versions, best ...",
+    "description": "技术文档查询与解答专家，即问即答",
     "stars": 7614,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1740,7 +1740,7 @@
       "lead",
       "写作"
     ],
-    "description": "AI扮演Email Lead Generator & Tracker角色，# Email Lead Generator & Tracker (WordPilot skill)\n\nUse this playbook when the u...",
+    "description": "自动生成和追踪销售线索，提升获客转化效率",
     "stars": 1305,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1757,7 +1757,7 @@
       "sales",
       "职场"
     ],
-    "description": "AI扮演Sales Research角色，---\nname: sales-research\ndescription: This skill provides methodology and best p...",
+    "description": "深度销售研究，分析市场趋势与客户洞察",
     "stars": 43515,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1775,7 +1775,7 @@
       "values",
       "学习"
     ],
-    "description": "AI扮演MISSING VALUES HANDLER角色，# PROMPT() — UNIVERSAL MISSING VALUES HANDLER\n\n> **Version**: 1.0 | **Framework*...",
+    "description": "自动检测和处理数据缺失值，保证数据质量",
     "stars": 1081,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1797,7 +1797,7 @@
       "trip",
       "itinerary"
     ],
-    "description": "AI扮演Photography Trip Planning — Research-Backed Itinerary Builder角色，# Photography Trip Planning Prompt\n## Reusable Template for Travel Photographers...",
+    "description": "基于研究的摄影旅行规划，打造完美拍摄行程",
     "stars": 444,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1816,7 +1816,7 @@
       "创意",
       "deep"
     ],
-    "description": "AI扮演Deep Research Agent Role角色，# Deep Research Agent\n\nYou are a senior research methodology expert and speciali...",
+    "description": "深度研究代理，多维度搜索并综合分析信息",
     "stars": 1467,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1834,7 +1834,7 @@
       "编程",
       "codebase"
     ],
-    "description": "AI扮演Codebase Ecosystem Atlas角色，---\nname: codebase-ecosystem-atlas\ndescription: Run a read-only, static-first an...",
+    "description": "绘制代码库生态图谱，可视化项目结构与依赖",
     "stars": 1812,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1851,7 +1851,7 @@
       "scraper",
       "编程"
     ],
-    "description": "AI扮演X Twitter Scraper角色，---\nname: x-twitter-scraper\ndescription: X (Twitter) data platform skill for AI ...",
+    "description": "X/Twitter 数据抓取工具，获取社交媒体数据",
     "stars": 372,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1870,7 +1870,7 @@
       "role",
       "创意"
     ],
-    "description": "AI扮演SEO Auditor Agent Role角色，# SEO Optimization Request\n\nYou are a senior SEO expert and specialist in techni...",
+    "description": "SEO 审计与优化，提升搜索引擎排名",
     "stars": 9270,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1888,7 +1888,7 @@
       "编程",
       "comprehensive"
     ],
-    "description": "AI扮演Comprehensive repository analysis角色，{\n  \"task\": \"comprehensive_repository_analysis\",\n  \"objective\": \"Conduct exhaust...",
+    "description": "代码仓库全面分析，梳理架构与质量评估",
     "stars": 1749,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1910,7 +1910,7 @@
       "创意",
       "first"
     ],
-    "description": "AI扮演Design Handoff Notes - AI First, Human Readable角色，# Design Handoff Notes — AI-First, Human-Readable\n\n### A structured handoff docu...",
+    "description": "设计交接文档生成，面向 AI 的可读格式",
     "stars": 204,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1930,7 +1930,7 @@
       "ultimate",
       "code"
     ],
-    "description": "AI扮演The Ultimate TypeScript Code Review角色，# COMPREHENSIVE TYPESCRIPT CODEBASE REVIEW\n\nYou are an expert TypeScript code re...",
+    "description": "TypeScript 代码深度审查，确保类型安全与最佳实践",
     "stars": 7328,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1949,7 +1949,7 @@
       "blue",
       "学习"
     ],
-    "description": "AI扮演Lagrange Lens: Blue Wolf角色，---\nname: lagrange-lens-blue-wolf\ndescription: Symmetry-Driven Decision Architec...",
+    "description": "多维度系统分析工具，从不同视角审视复杂问题",
     "stars": 1032,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1966,7 +1966,7 @@
       "childsong",
       "写作"
     ],
-    "description": "AI扮演🎵 ChildSong Guardian角色，# Objective\nAnalyze the song URL, lyrics, music video (if available), transcript...",
+    "description": "儿童歌曲内容审查，过滤不适合儿童的内容",
     "stars": 593,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -1983,7 +1983,7 @@
       "creator",
       "编程"
     ],
-    "description": "AI扮演Skill Creator角色，---\nname: skill-creator\ndescription: Guide for creating effective skills. This s...",
+    "description": "创建高质量 AI Skill 的指南与最佳实践",
     "stars": 1509,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2004,7 +2004,7 @@
       "agent",
       "store"
     ],
-    "description": "AI扮演Apple App Store Review Compliance Agent角色，# Apple App Store Review Compliance Agent\n\n## Role\n\nYou are an Apple App Store r...",
+    "description": "App Store 审核合规检查，确保应用通过审核",
     "stars": 509,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2022,7 +2022,7 @@
       "职场",
       "advanced"
     ],
-    "description": "AI扮演Advanced Account Research角色，<role>\nYou are an Expert Market Research Analyst with deep expertise in:\n- Compa...",
+    "description": "高级客户研究，挖掘潜在商机与决策者信息",
     "stars": 1671,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2043,7 +2043,7 @@
       "写作",
       "wordpilot"
     ],
-    "description": "AI扮演Lead Generator & Tracker for WordPilot.pro角色，# Lead Generator & Tracker for WordPilot.pro\n\nUse this playbook when the user as...",
+    "description": "自动生成和追踪销售线索，提升获客转化效率",
     "stars": 214,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2065,7 +2065,7 @@
       "编程",
       "ai"
     ],
-    "description": "AI扮演MoltPass Client -- Cryptographic Passport for AI Agents角色，---\nname: moltpass-client\ndescription: \"Cryptographic passport client for AI age...",
+    "description": "AI 代理加密护照，为 AI 身份认证提供密码学保障",
     "stars": 3866,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2084,7 +2084,7 @@
       "编程",
       "role"
     ],
-    "description": "AI扮演Data Validator Agent Role角色，# Data Validator\n\nYou are a senior data integrity expert and specialist in input...",
+    "description": "数据验证代理，自动校验数据完整性与正确性",
     "stars": 633,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2102,7 +2102,7 @@
       "编程",
       "author"
     ],
-    "description": "AI扮演Stylelint Plugin Author角色，---\nname: \"Copilot-Instructions-Stylelint-Plugin\"\ndescription: \"Instructions for...",
+    "description": "开发 Stylelint 插件，自定义 CSS 代码检查规则",
     "stars": 912,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2121,7 +2121,7 @@
       "architecture",
       "sabarudin"
     ],
-    "description": "AI扮演Sabarudin System - Executive Architecture角色，SABARUDIN SYSTEM — Detailed Architecture Explanation\n\n1. Core Identity of the Di...",
+    "description": "系统架构执行框架，需求转化为可执行方案",
     "stars": 1753,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2141,7 +2141,7 @@
       "pool",
       "创意"
     ],
-    "description": "AI扮演Ultra Photorealistic Rooftop Pool Portrait角色，{\n  \"pack_name\": \"BOLD - Rooftop Inferno / Golden Hour\",\n  \"intent\": \"Generate a...",
+    "description": "超写实图像生成提示词，电影级画质输出",
     "stars": 1476,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2161,7 +2161,7 @@
       "role",
       "mock"
     ],
-    "description": "AI扮演Mock Data Generator Agent Role角色，# Mock Data Generator\n\nYou are a senior test data engineering expert and special...",
+    "description": "自动生成模拟数据，用于测试和开发环境",
     "stars": 1497,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2179,7 +2179,7 @@
       "职场",
       "sabarudin"
     ],
-    "description": "AI扮演SABARUDIN INSTRUCTIONS FRAMEWORK角色，CORE: EXECUTIVE SYSTEM PROMPT & CUSTOM INSTRUCTION\n​SYSTEM PERSONA & IDENTITY\nYo...",
+    "description": "系统架构执行框架，需求转化为可执行方案",
     "stars": 7248,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2201,7 +2201,7 @@
       "ink",
       "创意"
     ],
-    "description": "AI扮演Cinematic Ink & Color Illustration Generator — Gary Frank Style角色，{\n  \"type\": \"illustration\",\n  \"goal\": \"Create a single wide cinematic illustrati...",
+    "description": "电影级墨色插画生成，Gary Frank 风格参考",
     "stars": 994,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2220,7 +2220,7 @@
       "写作",
       "role"
     ],
-    "description": "AI扮演SEO Optimization Agent Role角色，# SEO Optimization\n\nYou are a senior SEO expert and specialist in content strate...",
+    "description": "SEO 审计与优化，提升搜索引擎排名",
     "stars": 855,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2236,7 +2236,7 @@
       "mbbs",
       "学习"
     ],
-    "description": "AI扮演Mbbs角色，You are an elite medical educator, a professor-level expert across all MBBS subj...",
+    "description": "医学学习助手，MBBS课程辅导与医学知识梳理",
     "stars": 17980,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2255,7 +2255,7 @@
       "编程",
       "role"
     ],
-    "description": "AI扮演Frontend Developer Agent Role角色，# Frontend Developer\n\nYou are a senior frontend expert and specialist in modern ...",
+    "description": "前端开发专家，组件编写与页面搭建",
     "stars": 846,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2274,7 +2274,7 @@
       "role",
       "创意"
     ],
-    "description": "AI扮演UI Architect Agent Role角色，# UI Component Architect\n\nYou are a senior frontend expert and specialist in sca...",
+    "description": "用户界面架构设计，创建美观可用的界面方案",
     "stars": 2928,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2293,7 +2293,7 @@
       "编程",
       "role"
     ],
-    "description": "AI扮演Backend Architect Agent Role角色，# Backend Architect\n\nYou are a senior backend engineering expert and specialist ...",
+    "description": "后端架构设计，系统规划与技术选型",
     "stars": 520,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2311,7 +2311,7 @@
       "to",
       "学习"
     ],
-    "description": "AI扮演transcript_to_notes角色，---\ndescription: \"[V2] AI study assistant that transforms lectures into high-fid...",
+    "description": "将音视频转录文本整理为结构化笔记",
     "stars": 668,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2330,7 +2330,7 @@
       "role",
       "创意"
     ],
-    "description": "AI扮演Accessibility Auditor Agent Role角色，# Accessibility Auditor\n\nYou are a senior accessibility expert and specialist in...",
+    "description": "无障碍审计，检查和修复页面可访问性问题",
     "stars": 1320,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2350,7 +2350,7 @@
       "snapshot",
       "job"
     ],
-    "description": "AI扮演Job Posting Snapshot & Preservation Engine角色，# TITLE: Job Posting Intelligence Engine (Ruthless Edition)\n# VERSION: 4.8.14 (I...",
+    "description": "职位发布快照与保存引擎，追踪招聘信息变化",
     "stars": 1357,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2368,7 +2368,7 @@
       "writer",
       "academic"
     ],
-    "description": "AI扮演Academic Research Writer角色，---\nname: academic-research-writer\ndescription: \"Assistente especialista em pesq...",
+    "description": "学术研究写作助手，论文撰写与文献梳理",
     "stars": 1650,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2389,7 +2389,7 @@
       "constraint",
       "first"
     ],
-    "description": "AI扮演Constraint-First Recipe Generator (Playful Edition)角色，# Prompt Name: Constraint-First Recipe Generator (Playful Edition)\n# Author: Sco...",
+    "description": "受限条件食谱生成器，根据现有食材创意搭配",
     "stars": 1369,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2406,7 +2406,7 @@
       "prompting",
       "学习"
     ],
-    "description": "AI扮演KP Prompting角色，---\nname: kp-prompting\ndescription: Build advanced prompts, task specs, verifica...",
+    "description": "知识驱动的提示词方法论，提升AI输出质量",
     "stars": 7231,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2423,7 +2423,7 @@
       "编程",
       "migration"
     ],
-    "description": "AI扮演Context Migration角色，# Context Preservation & Migration Prompt\n\n[ for AGENT.MD pass THE `## SECTION` ...",
+    "description": "代码库上下文迁移工具，在不同环境间迁移配置",
     "stars": 1682,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2442,7 +2442,7 @@
       "写作",
       "threat"
     ],
-    "description": "AI扮演Live Scam Threat Briefing角色，Prompt Title: Live Scam Threat Briefing – Top 3 Active Scams (Regional + Risk Sc...",
+    "description": "实时诈骗威胁简报，识别和应对最新诈骗手段",
     "stars": 1553,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2460,7 +2460,7 @@
       "web",
       "编程"
     ],
-    "description": "AI扮演WEB Product Architect角色，# Role and Task\nYou are a top-tier Web Product Architect, Full-Stack System Desi...",
+    "description": "Web产品架构设计，全栈应用规划与实现",
     "stars": 1542,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2481,7 +2481,7 @@
       "创意",
       "planner"
     ],
-    "description": "AI扮演AI Travel Agent – Interview-Driven Planner角色，Prompt Name: AI Travel Agent – Interview-Driven Planner\nAuthor: Scott M\nVersion:...",
+    "description": "AI旅行规划师，通过访谈了解偏好定制行程",
     "stars": 1629,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2501,7 +2501,7 @@
       "engine",
       "编程"
     ],
-    "description": "AI扮演Kubernetes & Docker RPG Learning Engine角色，TITLE: Kubernetes & Docker RPG Learning Engine\nVERSION: 1.0 (Ready-to-Play Editi...",
+    "description": "专注Docker、Kubernetes、学习的AI技能",
     "stars": 8203,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2523,7 +2523,7 @@
       "学习",
       "tutor"
     ],
-    "description": "AI扮演Act as an Elite Course Mastery Tutor角色，====================================================================\nROLE\n======...",
+    "description": "专注辅导、课程的AI技能",
     "stars": 969,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2540,7 +2540,7 @@
       "refiner",
       "AI工具"
     ],
-    "description": "AI扮演Prompt Refiner角色，---\nname: prompt-refiner\ndescription: High-end Prompt Engineering & Prompt Refin...",
+    "description": "专注提示词、优化的AI技能",
     "stars": 1303,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2557,7 +2557,7 @@
       "accessibility",
       "expert"
     ],
-    "description": "AI扮演Accessibility Expert角色，---\nname: accessibility-expert\ndescription: Tests and remediates accessibility i...",
+    "description": "专注无障碍的AI技能",
     "stars": 834,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2573,7 +2573,7 @@
       "meddah",
       "生活"
     ],
-    "description": "AI扮演MeddaH角色，{\n  \"meddah\": {\n    \"ad\": \"Meddah Aklı\",\n    \"tanım\": \"Tek kişilik tiyatro sanat...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1115,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2591,7 +2591,7 @@
       "htwind",
       "写作"
     ],
-    "description": "AI扮演HTWind-Widget-Creator角色，# HTWind Widget Generator - System Prompt\n\nYou are a principal-level Windows wid...",
+    "description": "智能创作工具，辅助创意实现与产出",
     "stars": 5882,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2608,7 +2608,7 @@
       "girl",
       "学习"
     ],
-    "description": "AI扮演Random Girl角色，As a dynamic character profile generator for interactive storytelling sessions. ...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 6072,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2627,7 +2627,7 @@
       "interview",
       "创意"
     ],
-    "description": "AI扮演AI Process Feasibility Interview角色，# Prompt Name: AI Process Feasibility Interview\n# Author: Scott M\n# Version: 1.5...",
+    "description": "专注面试的AI技能",
     "stars": 33312,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2648,7 +2648,7 @@
       "technical",
       "clarity"
     ],
-    "description": "AI扮演Non-Technical IT Help & Clarity Assistant角色，# ==========================================================\n# Prompt Name: Non-...",
+    "description": "专注助手、IT帮助的AI技能",
     "stars": 9201,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2667,7 +2667,7 @@
       "创意",
       "acquisition"
     ],
-    "description": "AI扮演User Acquisition Data Analysis角色，Persona\nYou are a senior User Acquisition Manager in mobile gaming with 10+ year...",
+    "description": "专注用户界面、分析的AI技能",
     "stars": 560,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2684,7 +2684,7 @@
       "创意",
       "create"
     ],
-    "description": "AI扮演Create Infographics角色，explain the thinking fast and slow book\n\n{\n  \"style\": {\n    \"name\": \"Whiteboard ...",
+    "description": "专注信息图、创作的AI技能",
     "stars": 279,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2702,7 +2702,7 @@
       "编程",
       "intelligence"
     ],
-    "description": "AI扮演Industry/Market Intelligence角色，<instruction>\n<identity>\nYou are a market intelligence and data-analysis AI.\n\nYo...",
+    "description": "专注情报、市场的AI技能",
     "stars": 1687,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2721,7 +2721,7 @@
       "dossier",
       "职场"
     ],
-    "description": "AI扮演Pre-Interview Intelligence Dossier角色，# Pre-Interview Intelligence Dossier\n**VERSION:** 1.2\n**AUTHOR:** Scott M\n**LAST...",
+    "description": "专注面试、情报的AI技能",
     "stars": 1473,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2743,7 +2743,7 @@
       "编程",
       "principal"
     ],
-    "description": "AI扮演Principal AI Code Reviewer + Senior Software Engineer / Architect Prompt角色，---\nname: senior-software-engineer-software-architect-code-reviewer\ndescription:...",
+    "description": "专注提示词、审查的AI技能",
     "stars": 515,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2761,7 +2761,7 @@
       "职场",
       "survival"
     ],
-    "description": "AI扮演Cyberscam Survival Simulator角色，# Cyberscam Survival Simulator\nCertification & Progression Extension  \nAuthor: S...",
+    "description": "专注生存指南、模拟器的AI技能",
     "stars": 1688,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2780,7 +2780,7 @@
       "expanded",
       "商业"
     ],
-    "description": "AI扮演Expanded Company Intel Report角色，## PRE-ANALYSIS INPUT VALIDATION\nBefore generating analysis:\n1. If Company Name ...",
+    "description": "专注报告的AI技能",
     "stars": 6877,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2801,7 +2801,7 @@
       "创意",
       "remotion"
     ],
-    "description": "AI扮演prompts.chat Promotional Video using Remotion角色，Create a 30-second promotional video for prompts.chat                     \n     ...",
+    "description": "专注视频、提示词的AI技能",
     "stars": 7528,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2819,7 +2819,7 @@
       "unity",
       "architecture"
     ],
-    "description": "AI扮演Unity Architecture Specialist角色，---\nname: unity-architecture-specialist\ndescription: A Claude Code agent skill f...",
+    "description": "专注Unity的AI技能",
     "stars": 1167,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2837,7 +2837,7 @@
       "编程",
       "job"
     ],
-    "description": "AI扮演Customizable Job Scanner角色，# Customizable Job Scanner - AI Optimized\n**Author:** Scott M  \n**Version:** 2.0...",
+    "description": "专注求职、扫描的AI技能",
     "stars": 882,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2855,7 +2855,7 @@
       "json",
       "to"
     ],
-    "description": "AI扮演Vision-to-json角色，This is a request for a System Instruction (or \"Meta-Prompt\") that you can use t...",
+    "description": "专注视觉识别的AI技能",
     "stars": 1684,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2876,7 +2876,7 @@
       "职场",
       "quality"
     ],
-    "description": "AI扮演Resume Quality Reviewer – Green Flag Edition角色，# Resume Quality Reviewer – Green Flag Edition\n**Version:** v1.3  \n**Author:** S...",
+    "description": "专注审查、简历的AI技能",
     "stars": 1504,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2897,7 +2897,7 @@
       "创意",
       "this"
     ],
-    "description": "AI扮演\"YOU PROBABLY DON'T KNOW THIS\" Game角色，<!-- ===================================================================== -->\n<...",
+    "description": "专注游戏的AI技能",
     "stars": 1827,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2914,7 +2914,7 @@
       "创意",
       "american"
     ],
-    "description": "AI扮演American Comic角色，story: a child superman and a child batman joins their forces together in a fore...",
+    "description": "专注漫画的AI技能",
     "stars": 1852,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2933,7 +2933,7 @@
       "image",
       "创意"
     ],
-    "description": "AI扮演Comprehensive Image Analysis Report角色，{\n  \"meta\": {\n    \"source_image\": \"user_provided_image\",\n    \"analysis_timestamp...",
+    "description": "专注分析、报告、图像的AI技能",
     "stars": 563,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2953,7 +2953,7 @@
       "audit",
       "编程"
     ],
-    "description": "AI扮演Comprehensive Repository Audit & Remediation Prompt角色，## Objective\nConduct a thorough analysis of the entire repository to identify, p...",
+    "description": "专注提示词、审计的AI技能",
     "stars": 576,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2972,7 +2972,7 @@
       "summary",
       "职场"
     ],
-    "description": "AI扮演LinkedIn Summary Crafting Prompt角色，# LinkedIn Summary Crafting Prompt\n\n## Author\nScott M.\n\n## Goal\nThe goal of this...",
+    "description": "专注提示词、领英、摘要的AI技能",
     "stars": 1173,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -2993,7 +2993,7 @@
       "创意",
       "rewrite"
     ],
-    "description": "AI扮演Brotherhood Pressure — CN→EN & EN→EN Street Rewrite角色，[TONE & NARRATIVE SYSTEM: BROTHERHOOD PRESSURE]\n\n────────────────────────\nI. COR...",
+    "description": "专注重写的AI技能",
     "stars": 1132,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3013,7 +3013,7 @@
       "onboarding",
       "technical"
     ],
-    "description": "AI扮演Technical Codebase Discovery & Onboarding Prompt角色，**Context:**  \nI am a developer who has just joined the project and I am using y...",
+    "description": "专注提示词、探索、入门的AI技能",
     "stars": 252,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3032,7 +3032,7 @@
       "职场",
       "resource"
     ],
-    "description": "AI扮演Project Skill & Resource Interviewer角色，# ============================================================\n# Prompt Name: Pr...",
+    "description": "专注项目、面试的AI技能",
     "stars": 1741,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3050,7 +3050,7 @@
       "职场",
       "expert"
     ],
-    "description": "AI扮演Agent Organization Expert角色，---\nname: agent-organization-expert\ndescription: Multi-agent orchestration skill...",
+    "description": "任务拆解助手，将大任务分解为可执行步骤",
     "stars": 1291,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3068,7 +3068,7 @@
       "prompt",
       "学习"
     ],
-    "description": "AI扮演Research Prompt (Mistral)角色，`# ROLE:\nYou are an expert in acquiring and synthesizing general information fro...",
+    "description": "专注研究、提示词的AI技能",
     "stars": 1488,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3089,7 +3089,7 @@
       "canonical",
       "markdown"
     ],
-    "description": "AI扮演LinkedIn JSON → Canonical Markdown Profile Generator角色，# LinkedIn JSON → Canonical Markdown Profile Generator\n\nVERSION: 1.2  \nAUTHOR: S...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1936,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3107,7 +3107,7 @@
       "aws",
       "expert"
     ],
-    "description": "AI扮演AWS Cloud Expert角色，---\nname: aws-cloud-expert\ndescription: |\n  Designs and implements AWS cloud arc...",
+    "description": "专注AWS的AI技能",
     "stars": 1737,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3123,7 +3123,7 @@
       "学习",
       "driftcraft"
     ],
-    "description": "AI扮演Driftcraft角色，---\nname: driftcraft\ndescription: Driftcraft is not a problem-solving assistant....",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 267,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3141,7 +3141,7 @@
       "ai",
       "AI工具"
     ],
-    "description": "AI扮演Add AI protection角色，---\nname: add-ai-protection\nlicense: Apache-2.0\ndescription: Protect AI chat and...",
+    "description": "专注保护的AI技能",
     "stars": 7273,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3161,7 +3161,7 @@
       "skills",
       "职场"
     ],
-    "description": "AI扮演Master Skills & Experience Summary Generator角色，# Prompt Name: Master Skills & Experience Summary Generator\n\n## Goal\nCreate a po...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 23109,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3179,7 +3179,7 @@
       "accessibility",
       "superpower"
     ],
-    "description": "AI扮演Accessibility Testing Superpower角色，---\nname: accessibility-testing-superpower\ndescription: |\n  Performs WCAG compli...",
+    "description": "专注测试、无障碍的AI技能",
     "stars": 1179,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3201,7 +3201,7 @@
       "documentation",
       "built"
     ],
-    "description": "AI扮演\"Explain It Like I Built It\"  Technical Documentation for Non-Technical Founders角色，You are a senior technical writer who specializes in making complex systems\nunde...",
+    "description": "专注用户界面的AI技能",
     "stars": 396,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3223,7 +3223,7 @@
       "strategy",
       "创意"
     ],
-    "description": "AI扮演Ultimate Stake.us Dice Wagering Strategy Builder — Rollover & Playthrough Completion角色，You are an expert wagering-strategy architect specializing in Stake.us Dice — a ...",
+    "description": "专业构建工具，从零搭建所需项目",
     "stars": 1829,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3243,7 +3243,7 @@
       "agent",
       "mcp"
     ],
-    "description": "AI扮演xcode-mcp (for pi agent)角色，---\nname: xcode-mcp-for-pi-agent\ndescription: Guidelines for efficient Xcode MCP...",
+    "description": "专注Xcode的AI技能",
     "stars": 1752,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3260,7 +3260,7 @@
       "icons",
       "create"
     ],
-    "description": "AI扮演Create Icons角色，A premium iOS app icon for a running and fitness app, featuring \na stylized abst...",
+    "description": "专注图标、创作的AI技能",
     "stars": 1037,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3278,7 +3278,7 @@
       "architect",
       "职场"
     ],
-    "description": "AI扮演Overqualification Narrative Architect角色，# Overqualification Narrative Architect\nVERSION: 3.0\nAUTHOR: Scott M (updated wi...",
+    "description": "专注叙事的AI技能",
     "stars": 1906,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3297,7 +3297,7 @@
       "network",
       "学习"
     ],
-    "description": "AI扮演Network Engineer: Home Edition角色，<!-- Network Engineer: Home Edition -->\n<!-- Author: Scott M -->\n<!-- Last Modif...",
+    "description": "专注网络工程、家庭版的AI技能",
     "stars": 1357,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3317,7 +3317,7 @@
       "infographic",
       "学习"
     ],
-    "description": "AI扮演Steel Blueprint Infographic For SosMed角色，SYSTEM:\nYou are an LLM prompt executor.\n\nUSER TASK:\nCreate a vertical 9:16 infog...",
+    "description": "专注信息图的AI技能",
     "stars": 1278,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3339,7 +3339,7 @@
       "创意",
       "serene"
     ],
-    "description": "AI扮演Tropical Elegance: A Serene Afternoon in a Sunlit Villa角色，{\n  \"image_analysis\": {\n    \"meta\": {\n      \"file_name\": \"image_ef3de2.jpg\",\n   ...",
+    "description": "专注热带、优雅的AI技能",
     "stars": 7160,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3356,7 +3356,7 @@
       "创意",
       "synthesizer"
     ],
-    "description": "AI扮演Feedback Synthesizer角色，---\nname: feedback-synthesizer\ndescription: \"Use this agent when you need to ana...",
+    "description": "App Store 审核合规检查，确保应用通过审核",
     "stars": 1567,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3376,7 +3376,7 @@
       "创意",
       "series"
     ],
-    "description": "AI扮演Ultra-Realistic Winter Cinematography Series角色，{\n  \"version\": \"2.1\",\n  \"type\": \"multi_frame_winter_cinematography\",\n  \"identity...",
+    "description": "专注冬季的AI技能",
     "stars": 1097,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3394,7 +3394,7 @@
       "engine",
       "学习"
     ],
-    "description": "AI扮演Session Continuity Engine角色，# Prompt: Session Continuity Engine (SCE)\n# Version: 1.2.3\n# Author: Scott Malin...",
+    "description": "专注用户界面的AI技能",
     "stars": 1694,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3416,7 +3416,7 @@
       "dig",
       "compile"
     ],
-    "description": "AI扮演Specialized Assistant for shanjunmei/dig Compile-Time DI Library角色，<!-- LLM System Prompt Start -->\n# LLM Skill: shanjunmei/dig Go DI Development A...",
+    "description": "专注助手的AI技能",
     "stars": 693,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3438,7 +3438,7 @@
       "strategy",
       "创意"
     ],
-    "description": "AI扮演Ultimate Stake.us Dice Strategy Builder — All Risk Levels & Bankrolls角色，You are an expert gambling strategy architect specializing in Stake.us Dice — a ...",
+    "description": "专业构建工具，从零搭建所需项目",
     "stars": 309,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3456,7 +3456,7 @@
       "video",
       "safekids"
     ],
-    "description": "AI扮演🤖 SafeKids Video Analyzer角色，Objective\n\nAnalyze the YouTube video URL, transcript, or summary provided by the...",
+    "description": "智能分析工具，深度剖析问题与数据",
     "stars": 228,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3474,7 +3474,7 @@
       "deep",
       "investigation"
     ],
-    "description": "AI扮演Deep Investigation Agent角色，---\nname: deep-investigation-agent\ndescription: \"Agente de investigação profunda...",
+    "description": "专注调查分析的AI技能",
     "stars": 5749,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3493,7 +3493,7 @@
       "编程",
       "expert"
     ],
-    "description": "AI扮演VSCode CodeTour Expert Agent角色，---\ndescription: 'Expert agent for creating and maintaining VSCode CodeTour file...",
+    "description": "专注VS Code的AI技能",
     "stars": 1928,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3513,7 +3513,7 @@
       "as",
       "opus"
     ],
-    "description": "AI扮演Claude Opus as SEO Auditor角色，You are a senior Technical SEO Auditor, UX QA Lead, CRO Consultant, Front-End QA...",
+    "description": "SEO 审计与优化，提升搜索引擎排名",
     "stars": 635,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3530,7 +3530,7 @@
       "prototyper",
       "rapid"
     ],
-    "description": "AI扮演Rapid Prototyper角色，---\nname: rapid-prototyper\ndescription: \"Use this agent when you need to quickly...",
+    "description": "专注API的AI技能",
     "stars": 791,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3552,7 +3552,7 @@
       "职场",
       "universal"
     ],
-    "description": "AI扮演Universal Lead & Candidate Outreach Generator (HR, SALES)角色，# **🔥 Universal Lead & Candidate Outreach Generator**  \n### *AI Prompt for Autom...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 7856,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3569,7 +3569,7 @@
       "生活",
       "researcher"
     ],
-    "description": "AI扮演Trend Researcher角色，---\nname: trend-researcher\ndescription: \"Use this agent when you need to identif...",
+    "description": "专注研究的AI技能",
     "stars": 1039,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3591,7 +3591,7 @@
       "wicker",
       "on"
     ],
-    "description": "AI扮演A young woman relaxing in a wicker chair on a sunlit Mediterranean balcony.角色，{\n  \"meta\": {\n    \"type\": \"image_analysis\",\n    \"file_name\": \"image_5e33ac.jpg\",...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1674,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3608,7 +3608,7 @@
       "编程",
       "xcode"
     ],
-    "description": "AI扮演xcode-mcp角色，---\nname: xcode-mcp\ndescription: Guidelines for efficient Xcode MCP tool usage. ...",
+    "description": "专注Xcode的AI技能",
     "stars": 33212,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3625,7 +3625,7 @@
       "职场",
       "pulse"
     ],
-    "description": "AI扮演Market Pulse角色，Author: Rick Kotlarz, @RickKotlarz\n\n**IMPORTANT** Display the current date GMT-4...",
+    "description": "专注市场、监测的AI技能",
     "stars": 1263,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3644,7 +3644,7 @@
       "code",
       "superpower"
     ],
-    "description": "AI扮演AST Code Analysis Superpower角色，---\nname: ast-code-analysis-superpower\ndescription: AST-based code pattern analy...",
+    "description": "系统化分析工具，深入理解复杂系统的结构与行为",
     "stars": 1504,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3666,7 +3666,7 @@
       "cinematic",
       "video"
     ],
-    "description": "AI扮演Cinematic Ultra-Realistic Image-to-Video Prompt Engineer角色，{\n  \"name\": \"Cinematic Prompt Standard v2.0\",\n  \"type\": \"image_to_video_prompt_s...",
+    "description": "专注视频、提示词、图像的AI技能",
     "stars": 1535,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3686,7 +3686,7 @@
       "store",
       "创意"
     ],
-    "description": "AI扮演App Store Screenshots Gallery Generator角色，# App Store Screenshots Gallery Generator\n\n**Create a professional, production-r...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 15970,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3705,7 +3705,7 @@
       "ai",
       "学习"
     ],
-    "description": "AI扮演AI Productivity Artifact Generator角色，## ROLE\nYou are BACKLOG-FORGE, an AI productivity agent specialized in generatin...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 842,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3727,7 +3727,7 @@
       "heavy",
       "创意"
     ],
-    "description": "AI扮演Image Analysis for Night Portrait in Heavy Snowfall角色，{\n  \"image_analysis\": {\n    \"meta\": {\n      \"type\": \"photorealistic\",\n      \"sty...",
+    "description": "专注分析、图像的AI技能",
     "stars": 986,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3749,7 +3749,7 @@
       "for",
       "textual"
     ],
-    "description": "AI扮演SciSim Pro - Simulator for science (ASCII/Textual Art spatial diagrams support)角色，# Role: SciSim-Pro (Scientific Simulation & Visualization Specialist)\n\n## 1. Pro...",
+    "description": "专注模拟器的AI技能",
     "stars": 511,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3767,7 +3767,7 @@
       "documentation",
       "写作"
     ],
-    "description": "AI扮演Documentation Update Automation角色，---\nname: documentation-update-automation\ndescription: Expertise in updating loc...",
+    "description": "专注自动化的AI技能",
     "stars": 1409,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3785,7 +3785,7 @@
       "职场",
       "critical"
     ],
-    "description": "AI扮演Critical Thinking (DeepThink)角色，ROLE: OMEGA-LEVEL SYSTEM \"DEEPTHINKER-CA\" & METACOGNITIVE ANALYST\n\n# CORE IDENTI...",
+    "description": "专注思维训练、批判性的AI技能",
     "stars": 1364,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3803,7 +3803,7 @@
       "integration",
       "写作"
     ],
-    "description": "AI扮演trello-integration-skill角色，---\nname: trello-integration-skill\ndescription: This skill allows you to interac...",
+    "description": "专注集成的AI技能",
     "stars": 258,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3825,7 +3825,7 @@
       "创意",
       "auteur"
     ],
-    "description": "AI扮演Director Variation Grid: One Still, Eight Auteur Re-Shoots角色，Create a single 3x3 grid image (square, 2048x2048, high detail).\nThe center tile...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1590,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3844,7 +3844,7 @@
       "学习",
       "drafting"
     ],
-    "description": "AI扮演Scientific Paper Drafting Assistant角色，# Scientific Paper Drafting Assistant Skill\n\n## Overview\nThis skill transforms y...",
+    "description": "专注助手的AI技能",
     "stars": 1155,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3860,7 +3860,7 @@
       "horoscope",
       "学习"
     ],
-    "description": "AI扮演Horoscope l角色，You are now operating as the most advanced sidereal astrologer with full experti...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 4456,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3880,7 +3880,7 @@
       "audit",
       "创意"
     ],
-    "description": "AI扮演Repository Security & Architecture Audit Framework角色，title: Repository Security & Architecture Audit Framework\ndomain: backend,infra\n...",
+    "description": "专注安全、审计的AI技能",
     "stars": 900,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3921,7 +3921,7 @@
       "an",
       "mirror"
     ],
-    "description": "AI扮演Reflected Self-Portrait in an Urban Convex Traffic Mirror角色，{\n  \"image_analysis\": {\n    \"environment\": {\n      \"type\": \"Outdoor\",\n      \"set...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 6248,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3938,7 +3938,7 @@
       "whiteboard",
       "学习"
     ],
-    "description": "AI扮演Whiteboard Diagrams角色，Steps to build an AI startup by making something people want:\n\n{\n  \"style\": {\n  ...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1643,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3960,7 +3960,7 @@
       "sun",
       "tiki"
     ],
-    "description": "AI扮演Sun-Drenched Outdoor Selfie of a Tattooed Female Subject with Tiki Decor角色，{\n  \"scene_analysis\": {\n    \"environment\": {\n      \"type\": \"Outdoor\",\n      \"set...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 835,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3979,7 +3979,7 @@
       "创意",
       "panel"
     ],
-    "description": "AI扮演A three-panel monochromatic image角色，{\n  \"subject\": {\n    \"description\": \"A three-panel monochromatic image. Top pane...",
+    "description": "专注图像的AI技能",
     "stars": 3943,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -3997,7 +3997,7 @@
       "学习",
       "thinking"
     ],
-    "description": "AI扮演Adaptive Thinking Framework角色，**Adaptive Thinking Framework (Integrated Version)**\n\nThis framework has the use...",
+    "description": "专注思维训练的AI技能",
     "stars": 247,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4017,7 +4017,7 @@
       "para",
       "创意"
     ],
-    "description": "AI扮演Prompts para metodos de estudo角色，1) The Feynman Technique Tutor\nPrompt:\n\"Act as my Feynman Technique tutor. I wan...",
+    "description": "专注提示词的AI技能",
     "stars": 264,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4036,7 +4036,7 @@
       "编程",
       "spring"
     ],
-    "description": "AI扮演Spring Boot + SOLID Specialist角色，# 🧠 Spring Boot + SOLID Specialist\n\n## 🎯 Objective\n\nAct as a **Senior Software A...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 654,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4057,7 +4057,7 @@
       "multi",
       "商业"
     ],
-    "description": "AI扮演Multi-Audience Application Discovery & Documentation Prompt角色，# **Prompt for Code Analysis and System Documentation Generation**\n\nYou are a sp...",
+    "description": "专注提示词、探索的AI技能",
     "stars": 1235,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4079,7 +4079,7 @@
       "legal",
       "organizer"
     ],
-    "description": "AI扮演I Think I Need a Lawyer — Neutral Legal Intake Organizer角色，PROMPT NAME: I Think I Need a Lawyer — Neutral Legal Intake Organizer\nAUTHOR: Sc...",
+    "description": "专注法律的AI技能",
     "stars": 1457,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4096,7 +4096,7 @@
       "market",
       "写作"
     ],
-    "description": "AI扮演B2B Market Research角色，# ROLE\nYou are a senior B2B market intelligence analyst. Every report you produc...",
+    "description": "专注研究、市场的AI技能",
     "stars": 648,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4118,7 +4118,7 @@
       "lush",
       "创意"
     ],
-    "description": "AI扮演A retro-styled adventurer takes a pause by a lush jungle riverbank.角色，{\n  \"image_analysis\": {\n    \"environment\": {\n      \"type\": \"Outdoor\",\n      \"set...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 268,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4140,7 +4140,7 @@
       "in",
       "mocha"
     ],
-    "description": "AI扮演Aesthetic Mirror Selfie of a Curly-Haired Woman in a Mocha Ribbed Crop Top角色，{\n  \"image_analysis\": {\n    \"environment\": {\n      \"type\": \"Indoor\",\n      \"loca...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1589,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4157,7 +4157,7 @@
       "gemini",
       "md"
     ],
-    "description": "AI扮演gemini.md角色，# gemini.md\n\nYou are a senior full-stack software engineer with 20+ years of pro...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 226,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4177,7 +4177,7 @@
       "shadcn",
       "创意"
     ],
-    "description": "AI扮演shadcn Component Adapter for Cursor角色，# shadcn Component Visual Adapter\n\n## 🎯 Objective\nRefactor the existing `${compo...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 849,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4199,7 +4199,7 @@
       "AI工具",
       "page"
     ],
-    "description": "AI扮演Landing Page Copy Architect – Conversion Framework Prompt角色，Landing Page Copy Architect – Conversion Framework Prompt\n\n**Role & Goal**\nYou a...",
+    "description": "专注提示词的AI技能",
     "stars": 1361,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4216,7 +4216,7 @@
       "engineer",
       "AI工具"
     ],
-    "description": "AI扮演AI Engineer角色，---\nname: ai-engineer\ndescription: \"Use this agent when implementing AI/ML featu...",
+    "description": "AI工具领域的技能，提升AI使用效率与效果",
     "stars": 532,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4236,7 +4236,7 @@
       "创意",
       "product"
     ],
-    "description": "AI扮演image to video 360 product rotaion角色，{\n  \"model\": \"veo-3.1\",\n  \"task\": \"image_to_video_360_product_rotation\",\n\n  \"obj...",
+    "description": "专注产品、视频、图像的AI技能",
     "stars": 1263,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4253,7 +4253,7 @@
       "match",
       "football"
     ],
-    "description": "AI扮演Football Match角色，1. image generation - Hyper-realistic live football broadcast crowd shot set dur...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 7251,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4272,7 +4272,7 @@
       "launch",
       "编程"
     ],
-    "description": "AI扮演Pre-Launch Checklist Generator角色，You are a launch readiness specialist. Generate a comprehensive\npre-launch check...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 275,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4294,7 +4294,7 @@
       "elite",
       "ui"
     ],
-    "description": "AI扮演Elite Feedback Form Generator — Stunning UI with Next.js, React & TypeScript角色，<role>\nYou are an elite senior frontend developer with exceptional artistic expe...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1938,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4313,7 +4313,7 @@
       "mirror",
       "创意"
     ],
-    "description": "AI扮演Photorealistic Mirror Selfie Analysis角色，{\n  \"image_analysis\": {\n    \"meta\": {\n      \"type\": \"photorealistic\",\n      \"sty...",
+    "description": "专注照片、分析的AI技能",
     "stars": 5758,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4333,7 +4333,7 @@
       "ucd",
       "universal"
     ],
-    "description": "AI扮演Universal Context Document (UCD) Generator角色，# Optimized Universal Context Document Generator Prompt\n\n**v1.1** 2026-01-20  \nI...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1012,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4350,7 +4350,7 @@
       "编程",
       "developer"
     ],
-    "description": "AI扮演Frontend Developer角色，---\nname: frontend-developer\ndescription: \"Use this agent when building user int...",
+    "description": "前端开发专家，组件编写与页面搭建",
     "stars": 1250,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4366,7 +4366,7 @@
       "writer",
       "写作"
     ],
-    "description": "AI扮演writer角色，1. Standard Proofreading Prompt\nPrompt:\nPlease proofread the following text for ...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 469,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4384,7 +4384,7 @@
       "gathering",
       "planner"
     ],
-    "description": "AI扮演Gathering Planner Interview角色，# AI Prompt: Gathering Planner Interview\n## Versioning & Notes\n- **Author:** Sco...",
+    "description": "专注面试、规划器的AI技能",
     "stars": 7755,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4401,7 +4401,7 @@
       "scout",
       "学习"
     ],
-    "description": "AI扮演Food Scout角色，Prompt Name: Food Scout 🍽️\nVersion: 1.3\nAuthor: Scott M.\nDate: January 2026\n\nCHA...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 2553,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4418,7 +4418,7 @@
       "编程",
       "backend"
     ],
-    "description": "AI扮演Backend Architect角色，---\nname: backend-architect\ndescription: \"Use this agent when designing APIs, bu...",
+    "description": "后端架构设计，系统规划与技术选型",
     "stars": 3225,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4435,7 +4435,7 @@
       "编程",
       "devops"
     ],
-    "description": "AI扮演DevOps Automator角色，---\nname: devops-automator\ndescription: \"Use this agent when setting up CI/CD pi...",
+    "description": "CI/CD 流水线配置生成，自动化构建与部署",
     "stars": 623,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4453,7 +4453,7 @@
       "app",
       "builder"
     ],
-    "description": "AI扮演Mobile App Builder角色，---\nname: mobile-app-builder\ndescription: \"Use this agent when developing native...",
+    "description": "专业构建工具，从零搭建所需项目",
     "stars": 7825,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4474,7 +4474,7 @@
       "AI工具",
       "events"
     ],
-    "description": "AI扮演Olympic Games Events Weekly Listings Prompt角色，### Olympic Games Events Weekly Listings Prompt (v1.0 – Multi-Edition Adaptable)...",
+    "description": "专注提示词、游戏的AI技能",
     "stars": 5535,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4495,7 +4495,7 @@
       "reverse",
       "storyboard"
     ],
-    "description": "AI扮演5x2 Reverse Construction Process - Villa Demolition Storyboard角色，Act as an architectural visualization expert specialized in building design and ...",
+    "description": "专注故事的AI技能",
     "stars": 1622,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4517,7 +4517,7 @@
       "detailed",
       "bedroom"
     ],
-    "description": "AI扮演Detailed Image Analysis of a Mirror Selfie in a Bedroom Environment角色，{\n  \"image_analysis\": {\n    \"environment\": {\n      \"type\": \"Indoor\",\n      \"loca...",
+    "description": "专注分析、图像的AI技能",
     "stars": 1834,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4532,7 +4532,7 @@
     "tags": [
       "职场"
     ],
-    "description": "AI扮演فريق العمل角色，```markdown\n# Comprehensive Programming Team Structure\n> **Mission:** To establi...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 1764,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4554,7 +4554,7 @@
       "valuation",
       "编程"
     ],
-    "description": "AI扮演Senior Product Engineer + Data Scientist for Turkish Car Valuation Platform角色，Act as a Senior Product Engineer and Data Scientist team working together as an ...",
+    "description": "专注产品的AI技能",
     "stars": 1727,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4571,7 +4571,7 @@
       "prioritizer",
       "职场"
     ],
-    "description": "AI扮演Sprint Prioritizer角色，---\nname: sprint-prioritizer\ndescription: \"Use this agent when planning 6-day de...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 1126,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4587,7 +4587,7 @@
       "ultrathinker",
       "学习"
     ],
-    "description": "AI扮演Ultrathinker角色，# Ultrathinker\n\nYou are an expert software developer and deep reasoner. You comb...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 657,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4605,7 +4605,7 @@
       "nixos",
       "编程"
     ],
-    "description": "AI扮演NixOS Linux Specialist角色，## NixOS Linux Specialist - differs from traditional Linux distributions due to ...",
+    "description": "专注用户体验的AI技能",
     "stars": 255,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4627,7 +4627,7 @@
       "sweater",
       "in"
     ],
-    "description": "AI扮演Joyful Woman in Nordic Sweater Dancing at a Nostalgic Family Christmas Gathering角色，{\n  \"image_analysis\": {\n    \"environment\": {\n      \"type\": \"Indoor\",\n      \"loca...",
+    "description": "专注家庭的AI技能",
     "stars": 1496,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4643,7 +4643,7 @@
       "创意",
       "fisheye"
     ],
-    "description": "AI扮演Fisheye 90s角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool with magenta-green color cast\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 2347,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4663,7 +4663,7 @@
       "career",
       "职场"
     ],
-    "description": "AI扮演Career Profile from Resume Builder角色，# TITLE: Career Profile from Resume Builder\n# VERSION: 1.1.3\n# AUTHOR: Scott M\n#...",
+    "description": "专业构建工具，从零搭建所需项目",
     "stars": 1805,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4685,7 +4685,7 @@
       "创意",
       "serene"
     ],
-    "description": "AI扮演Serene Mirror-Selfie Portrait in Sunlit Bedroom角色，{\n  \"scene_type\": \"Indoor lifestyle portrait (mirror-selfie aesthetic)\",\n  \"envi...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 874,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4704,7 +4704,7 @@
       "outdoor",
       "image"
     ],
-    "description": "AI扮演Outdoor Staircase Image Analysis角色，{\n  \"environment\": {\n    \"type\": \"outdoor\",\n    \"location\": \"staircase\",\n    \"se...",
+    "description": "专注分析、图像的AI技能",
     "stars": 1988,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4722,7 +4722,7 @@
       "学习",
       "verification"
     ],
-    "description": "AI扮演🧠 FORMAL VERIFICATION MODE角色，You are operating in FORMAL VERIFICATION MODE.\n\nCORE PRINCIPLE: Your role is to ...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1579,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4744,7 +4744,7 @@
       "investigative",
       "mainstream"
     ],
-    "description": "AI扮演Investigative Research Assistant for Uncovering Non-Mainstream Information角色，{\n  \"role\": \"Investigative Research Assistant\",\n  \"persona\": \"You are an Investi...",
+    "description": "专注研究、助手的AI技能",
     "stars": 1751,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4764,7 +4764,7 @@
       "创意",
       "tv"
     ],
-    "description": "AI扮演TV Premiere Weekly Listing Prompt角色，### TV Premieres & Returning Seasons Weekly Listings Prompt (v3.1 – Balanced Emp...",
+    "description": "专注提示词的AI技能",
     "stars": 470,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4786,7 +4786,7 @@
       "编程",
       "multi"
     ],
-    "description": "AI扮演SaaS Security Audit - OWASP Top 10 & Multi-Tenant Isolation Review角色，title: SaaS Dashboard Security Audit - Knowledge-Anchored Backend Prompt\ndomain:...",
+    "description": "专注安全、审计的AI技能",
     "stars": 1648,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4808,7 +4808,7 @@
       "an",
       "created"
     ],
-    "description": "AI扮演Make UI/UX better of an already Created Application角色，You are a senior full-stack engineer and UX/UI architect with 10+ years of exper...",
+    "description": "专注用户体验、用户界面、创作的AI技能",
     "stars": 1693,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4825,7 +4825,7 @@
       "astro",
       "写作"
     ],
-    "description": "AI扮演Astro.js角色，# Astro v6 Architecture Rules (Strict Mode)\n\n## 1. Core Philosophy\n\n- Follow Ast...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 4682,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4847,7 +4847,7 @@
       "reasoning",
       "AI工具"
     ],
-    "description": "AI扮演WFGY 2.0 Core Flagship · Self-Healing Reasoning OS for Any LLM角色，System prompt: WFGY 2.0 Core Flagship · Self-Healing Reasoning OS for Any LLM\n\nY...",
+    "description": "AI工具领域的技能，提升AI使用效率与效果",
     "stars": 5093,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4864,7 +4864,7 @@
       "职场",
       "appraisal"
     ],
-    "description": "AI扮演Pay Appraisal角色，Act as a career and compensation analyst for the UK market, specifically London....",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 857,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4882,7 +4882,7 @@
       "professional",
       "生活"
     ],
-    "description": "AI扮演Professional Betting Predictions角色，SYSTEM PROMPT: Football Prediction Assistant – Logic & Live Sync v4.0 (Football ...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 3389,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4901,7 +4901,7 @@
       "yt",
       "创意"
     ],
-    "description": "AI扮演YT video  geopolitic analysis角色，(Deep Investigation Agent)\n\n## Triggers\n\n- Complex investigative requirements\n- ...",
+    "description": "专注视频、分析的AI技能",
     "stars": 338,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4917,7 +4917,7 @@
       "wicked",
       "创意"
     ],
-    "description": "AI扮演Wicked角色，She smiled while the child stopped breathing.\nI am telling his story ecause peop...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 5824,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4938,7 +4938,7 @@
       "创意",
       "cozy"
     ],
-    "description": "AI扮演Kitchen Morning Window Light (candid, cozy)角色，{\n  \"category\": \"KITCHEN_MORNING_WINDOWLIGHT\",\n  \"identity_lock\": {\n    \"enabled...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1981,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4957,7 +4957,7 @@
       "agency",
       "职场"
     ],
-    "description": "AI扮演Agency Growth Bottleneck Identifier角色，Role & Goal\nYou are an experienced agency growth consultant. Build a single, coh...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 2224,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4975,7 +4975,7 @@
       "neler",
       "getirecek"
     ],
-    "description": "AI扮演2026 Size Neler getirecek角色，{\n  \"task\": \"Photorealistic premium mystical 2026 astrology poster using uploade...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 333,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -4994,7 +4994,7 @@
       "infographic",
       "创意"
     ],
-    "description": "AI扮演Voice Cloning Attacks Infographic角色，SYSTEM:\nYou are an LLM prompt executor.\n\nUSER TASK:\nCreate a vertical 9:16 infog...",
+    "description": "专注信息图的AI技能",
     "stars": 300,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5012,7 +5012,7 @@
       "生活",
       "for"
     ],
-    "description": "AI扮演Good for us角色，{ \"subject\": { \"description\": \"A K-beauty inspired young adult woman with a soft...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1206,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5032,7 +5032,7 @@
       "rules",
       "senior"
     ],
-    "description": "AI扮演Senior Software Engineer  & Software Architect Rules角色，---\nname: senior-software-engineer-software-architect-rules\ndescription: Senior ...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 1237,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5052,7 +5052,7 @@
       "mindful",
       "创意"
     ],
-    "description": "AI扮演Mindful Mandala & Zen Geometric Patterns角色，# 🌀 Mindful Mandala & Zen Geometric Patterns\n\n## 🎨 Role & Purpose\nYou are an exp...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 6412,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5069,7 +5069,7 @@
       "创意",
       "project"
     ],
-    "description": "AI扮演Project Builder角色，Think like a vector analyst\n\"Avoid summarizing; synthesize instead. Extract stru...",
+    "description": "专业构建工具，从零搭建所需项目",
     "stars": 1950,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5090,7 +5090,7 @@
       "the",
       "when"
     ],
-    "description": "AI扮演When to clear the snow (generic)角色，# Generic Driveway Snow Clearing Advisor Prompt\n# Author: Scott M (adapted for g...",
+    "description": "AI工具领域的技能，提升AI使用效率与效果",
     "stars": 788,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5110,7 +5110,7 @@
       "写作",
       "product"
     ],
-    "description": "AI扮演Cruelty-Free Beauty Product Checker角色，Author: Rick Kotlarz, @RickKotlarz\n\n### Role and Context\nYou are an expert in ev...",
+    "description": "专注产品、检查器的AI技能",
     "stars": 231,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5131,7 +5131,7 @@
       "research",
       "学习"
     ],
-    "description": "AI扮演Unified Research and Source Analysis Prompt角色，Unified, High-Precision Research & Analysis Prompt for ChatGPT and Perplexity AI...",
+    "description": "专注研究、分析、提示词的AI技能",
     "stars": 1225,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5150,7 +5150,7 @@
       "media",
       "创意"
     ],
-    "description": "AI扮演Mixed Media Portrait Illustration角色，{\n  \"subject\": {\n    \"description\": \"A portrait of a man with short, dark, textu...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1503,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5170,7 +5170,7 @@
       "technique",
       "职场"
     ],
-    "description": "AI扮演Root Cause Architect (5 Whys Technique)角色，# ROLE & OBJECTIVE\n\nAct as the **\"Root Cause Architect\"**, a specialist in criti...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 1573,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5190,7 +5190,7 @@
       "events",
       "创意"
     ],
-    "description": "AI扮演Sports Events Weekly Listings Prompt角色，### Sports Events Weekly Listings Prompt (v1.0 – Initial Version)\n\n**Author:** S...",
+    "description": "专注提示词的AI技能",
     "stars": 714,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5210,7 +5210,7 @@
       "js",
       "react"
     ],
-    "description": "AI扮演React / Next.js Frontend Architect角色，# React / Next.js Frontend Architect\n\nYou are a Senior React Frontend Engineer s...",
+    "description": "专注前端开发、React的AI技能",
     "stars": 1458,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5232,7 +5232,7 @@
       "vision",
       "computer"
     ],
-    "description": "AI扮演12-Month AI and Computer Vision Roadmap for Defense Applications角色，{\n  \"role\": \"AI and Computer Vision Specialist Coach\",\n  \"context\": {\n    \"educa...",
+    "description": "专注防御、视觉识别的AI技能",
     "stars": 1683,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5251,7 +5251,7 @@
       "portrait",
       "创意"
     ],
-    "description": "AI扮演Photorealistic Selfie Portrait Description角色，{\n  \"subject\": {\n    \"demographics\": \"Young female, approx 20-24 years old, Cauc...",
+    "description": "专注照片的AI技能",
     "stars": 1376,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5270,7 +5270,7 @@
       "buying",
       "interview"
     ],
-    "description": "AI扮演Car Buying Intake Interview角色，# ==========================================================\n# Prompt Name: Car ...",
+    "description": "专注面试的AI技能",
     "stars": 761,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5288,7 +5288,7 @@
       "de",
       "gerador"
     ],
-    "description": "AI扮演Gerador de Tarefas角色，---\nname: sa-generate\ndescription: Structured Autonomy Implementation Generator ...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 371,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5305,7 +5305,7 @@
       "leadership",
       "职场"
     ],
-    "description": "AI扮演Mastering Leadership:角色，### 1. Communication Style (Speak Like Someone Others Cannot Ignore)\n- Project r...",
+    "description": "专注领导力的AI技能",
     "stars": 978,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5323,7 +5323,7 @@
       "failure",
       "职场"
     ],
-    "description": "AI扮演Cascading Failure Simulator角色，============================================================\nPROMPT NAME: Cascad...",
+    "description": "专注模拟器的AI技能",
     "stars": 440,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5340,7 +5340,7 @@
       "web",
       "typography"
     ],
-    "description": "AI扮演Web Typography角色，---\nname: web-typography\ndescription: Generate production-grade web typography C...",
+    "description": "专注Web的AI技能",
     "stars": 897,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5358,7 +5358,7 @@
       "information",
       "学习"
     ],
-    "description": "AI扮演Information Gathering Prompt角色，## *Information Gathering Prompt*\n\n---\n\n## *Prompt Input*\n- Enter the prompt top...",
+    "description": "专注提示词的AI技能",
     "stars": 1774,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5378,7 +5378,7 @@
       "创意",
       "qa"
     ],
-    "description": "AI扮演Visual QA & Cross-Browser Audit角色，You are a senior QA specialist with a designer's eye. Your job is to find\nevery ...",
+    "description": "专注审计的AI技能",
     "stars": 1239,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5399,7 +5399,7 @@
       "handwritten",
       "hospital"
     ],
-    "description": "AI扮演Ultra-Realistic Handwritten Hospital Note Image角色，Create an ultra-realistic image depicting a handwritten note on a clean, flat su...",
+    "description": "专注图像的AI技能",
     "stars": 3371,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5417,7 +5417,7 @@
       "harmony",
       "写作"
     ],
-    "description": "AI扮演KJV Harmony Companion角色，Here is the v3.1 prompt in clean, ready-to-paste\nformat — perfect for Google Doc...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 407,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5439,7 +5439,7 @@
       "power",
       "创意"
     ],
-    "description": "AI扮演GitHub Enterprise Cloud (GHEC) administrator and power user角色，## Skill Summary\nYou are a **GitHub Enterprise Cloud (GHEC) administrator and po...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 4428,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5461,7 +5461,7 @@
       "the",
       "创意"
     ],
-    "description": "AI扮演Generate a Plan for Building the Best UI/UX角色，You are a senior full-stack engineer and UX/UI architect with 10+ years of exper...",
+    "description": "专注用户体验、用户界面的AI技能",
     "stars": 860,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5480,7 +5480,7 @@
       "design",
       "code"
     ],
-    "description": "AI扮演Claude Code Statusline Design角色，# Task: Create a Professional Developer Status Bar for Claude Code\n\n## Role\n\nYou...",
+    "description": "专注设计的AI技能",
     "stars": 1268,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5502,7 +5502,7 @@
       "pool",
       "natural"
     ],
-    "description": "AI扮演Candid Outdoor Group Photo in Natural Pool角色，{\n  \"prompt\": \"A candid outdoor photo of a group of adults (21+) standing waist-...",
+    "description": "专注照片的AI技能",
     "stars": 1814,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5523,7 +5523,7 @@
       "创意",
       "product"
     ],
-    "description": "AI扮演Transform the provided clothing product image.角色，{\n  \"model\": \"nano-banana\",\n  \"task\": \"image_to_image_product_transformation\",\n\n...",
+    "description": "专注产品、图像的AI技能",
     "stars": 19022,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5542,7 +5542,7 @@
       "mage",
       "创意"
     ],
-    "description": "AI扮演Realistic İmage JSON Prompt角色，{\n  \"meta_instruction\": {\n    \"image_category\": \"cinematic_scene\",\n    \"core_pro...",
+    "description": "专注提示词的AI技能",
     "stars": 335,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5560,7 +5560,7 @@
       "职场",
       "grok"
     ],
-    "description": "AI扮演Grok Research Agent角色，You are Grok, xAI's premier truth-seeking research agent. This protocol is your ...",
+    "description": "专注研究的AI技能",
     "stars": 1157,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5577,7 +5577,7 @@
       "生活",
       "generator"
     ],
-    "description": "AI扮演Analogy Generator角色，# PROMPT: Analogy Generator (Interview-Style)\n**Author:** Scott M\n**Version:** 1...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1588,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5593,7 +5593,7 @@
       "商业",
       "alfa"
     ],
-    "description": "AI扮演alfa2角色，Act as an elite institutional equity research analyst and global macro portfolio...",
+    "description": "商业领域的AI技能，助力商业决策与增长",
     "stars": 6024,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5615,7 +5615,7 @@
       "localization",
       "generator"
     ],
-    "description": "AI扮演Master App Store Localization & ASO Prompt (2025) – Full Metadata Generator角色，Assume the role of a **senior global ASO strategist** specializing in metadata o...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1404,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5634,7 +5634,7 @@
       "photography",
       "创意"
     ],
-    "description": "AI扮演Nightlife Candid Flash Photography角色，A high-angle, harsh direct-flash snapshot taken at night in a dark outdoor pub p...",
+    "description": "专注照片的AI技能",
     "stars": 1104,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5653,7 +5653,7 @@
       "trend",
       "学习"
     ],
-    "description": "AI扮演Internet Trend & Slang Intelligence角色，TITLE: Internet Trend & Slang Intelligence Briefing Engine (ITSIBE)\nVERSION: 1.0...",
+    "description": "专注情报的AI技能",
     "stars": 1895,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5673,7 +5673,7 @@
       "universal",
       "job"
     ],
-    "description": "AI扮演Universal Job Fit Evaluation Prompt角色，# Universal Job Fit Evaluation Prompt – Fully Generic & Shareable\n# Author: Scot...",
+    "description": "专注提示词、求职的AI技能",
     "stars": 265,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5690,7 +5690,7 @@
       "lazyvim",
       "expert"
     ],
-    "description": "AI扮演Lazyvim expert角色，# LazyVim Developer — Prompt Specification\n\nThis specification defines the opera...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 1715,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5709,7 +5709,7 @@
       "review",
       "place"
     ],
-    "description": "AI扮演Interactive Place Review Generator角色，Act as an interactive review generator for places listed on platforms like Googl...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1457,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5730,7 +5730,7 @@
       "agent",
       "stars"
     ],
-    "description": "AI扮演GitHub Stars Fetcher with Agent Browser角色，# Using Agent Browser to Fetch GitHub Starred Projects\n\n## Objective\nUse the Age...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1361,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5751,7 +5751,7 @@
       "observer",
       "surreal"
     ],
-    "description": "AI扮演Surreal Miniature Cityscape with Giant Observer角色，{\n  \"colors\": {\n    \"color_temperature\": \"neutral\",\n    \"contrast_level\": \"high\"...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 356,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5773,7 +5773,7 @@
       "prompt",
       "antigravity"
     ],
-    "description": "AI扮演White-Box Web Application Security Audit & Penetration Testing Prompt for AI Code Editors (Cursor, Windsurf, Antigravity)角色，You are an expert ethical penetration tester specializing in web application sec...",
+    "description": "专注Web、测试、安全的AI技能",
     "stars": 18207,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5795,7 +5795,7 @@
       "the",
       "photograph"
     ],
-    "description": "AI扮演Transform the input product image into a professional commercial studio photograph角色，{\n  \"model\": \"nano-banana\",\n  \"task\": \"image_to_image_product_enhancement\",\n  \"o...",
+    "description": "专注产品、照片、图像的AI技能",
     "stars": 1181,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5815,7 +5815,7 @@
       "serene",
       "lifestyle"
     ],
-    "description": "AI扮演Serene Yoga & Mindfulness Lifestyle Photography角色，# Serene Yoga & Mindfulness Lifestyle Photography\n\n## 🧘 Role & Purpose\nYou are a...",
+    "description": "专注照片、瑜伽的AI技能",
     "stars": 1494,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5833,7 +5833,7 @@
       "video",
       "学习"
     ],
-    "description": "AI扮演Video extractor prompt角色，You are an expert AI Engineering instructor's assistant, specialized in extracti...",
+    "description": "专注视频、提示词的AI技能",
     "stars": 8151,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5855,7 +5855,7 @@
       "explicit",
       "bathroom"
     ],
-    "description": "AI扮演Bathroom Flash Selfie (IG-candid, non-explicit)角色，{\n  \"category\": \"BATHROOM_SELFIE_FLASH\",\n  \"subject\": {\n    \"demographics\": \"Adu...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 779,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5877,7 +5877,7 @@
       "niche",
       "curated"
     ],
-    "description": "AI扮演Compile a Curated Compendium of Niche Adult Relationship Dynamics角色，Act as a senior digital research analyst and content strategist with extensive e...",
+    "description": "专注人际的AI技能",
     "stars": 1215,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5899,7 +5899,7 @@
       "创意",
       "amateur"
     ],
-    "description": "AI扮演Amateur Girls' Night Selfie - Casual and Imperfect角色，Amateur girls’ night selfie, very casual and imperfect, 1:1 aspect ratio. The im...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 945,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5919,7 +5919,7 @@
       "创意",
       "majestic"
     ],
-    "description": "AI扮演Majestic Bald Eagle 3D Render Prompt角色，{\n  \"subject\": {\n    \"description\": \"The head and upper neck of a bald eagle, lo...",
+    "description": "专注提示词的AI技能",
     "stars": 1959,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5936,7 +5936,7 @@
       "创意",
       "poster"
     ],
-    "description": "AI扮演Car poster角色，${primary_text:Megane}{\n  \"category\": \"STUDIO_RACE_CAR_SIDE_PROFILE\",\n  \"subject...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 725,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5957,7 +5957,7 @@
       "day",
       "创意"
     ],
-    "description": "AI扮演30-Day Skill Mastery Challenge Prompt Template角色，# 30-Day Skill Mastery Challenge Prompt Template\n## Goal Statement\nThis prompt t...",
+    "description": "发现代码库模式，创建自动化技能的专家系统",
     "stars": 1721,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5975,7 +5975,7 @@
       "编程",
       "developer"
     ],
-    "description": "AI扮演Frontend Developer Skill角色，# Frontend Developer\n\nYou are an elite frontend development specialist with deep...",
+    "description": "前端开发专家，组件编写与页面搭建",
     "stars": 1555,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -5995,7 +5995,7 @@
       "写作",
       "projeto"
     ],
-    "description": "AI扮演Criar/Alterar Documentação de Projeto角色，---\nagent: 'agent'\ndescription: 'Generate / Update a set of project documentatio...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 479,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6017,7 +6017,7 @@
       "expo",
       "start"
     ],
-    "description": "AI扮演Expo + Supabase Edge Function Cold Start & Mobile Performance Analysis角色，Act as a Senior Mobile Performance Engineer and Supabase Edge Functions Architec...",
+    "description": "专注移动端、分析的AI技能",
     "stars": 1447,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6035,7 +6035,7 @@
       "investigative",
       "学习"
     ],
-    "description": "AI扮演Investigative Research Assistant角色，{\n  \"role\": \"Investigative Research Assistant\",\n  \"persona\": \"You are an Investi...",
+    "description": "专注研究、助手的AI技能",
     "stars": 286,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6070,7 +6070,7 @@
       "创意",
       "lifestyle"
     ],
-    "description": "AI扮演Rooftop Lifestyle Portrait Prompt角色，{\n  \"subject\": {\n    \"description\": \"A young blonde woman with fair skin sitting...",
+    "description": "专注提示词的AI技能",
     "stars": 1373,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6092,7 +6092,7 @@
       "high",
       "写作"
     ],
-    "description": "AI扮演High-End Beauty Editorial Photo Shoot Specification角色，{\n  \"project_specifications\": {\n    \"format\": \"2x2 Grid Collage\",\n    \"aspect_ra...",
+    "description": "专注照片的AI技能",
     "stars": 27550,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6113,7 +6113,7 @@
       "ski",
       "创意"
     ],
-    "description": "AI扮演Luxury Ski Resort Selfie Scene Description角色，{\n  \"scene_type\": \"luxury ski resort hallway selfie, post-club drunk glow, cold-...",
+    "description": "专注用户体验的AI技能",
     "stars": 1865,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6132,7 +6132,7 @@
       "创意",
       "quality"
     ],
-    "description": "AI扮演Question Quality Lab Game角色，# Prompt Name: Question Quality Lab Game\n# Version: 0.4\n# Last Modified: 2026-03...",
+    "description": "专注游戏的AI技能",
     "stars": 342,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6151,7 +6151,7 @@
       "创意",
       "influencer"
     ],
-    "description": "AI扮演Influencer Candid Bedtime Selfie角色，{\n  \"meta\": {\n    \"aspect_ratio\": \"9:16\",\n    \"quality\": \"raw_photo, uncompresse...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1892,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6173,7 +6173,7 @@
       "创意",
       "dashboard"
     ],
-    "description": "AI扮演SaaS Analytics Dashboard - Knowledge-Anchored Frontend Prompt角色，role: >\n  You are a senior frontend engineer specializing in SaaS dashboard desi...",
+    "description": "专注前端开发、提示词、仪表盘的AI技能",
     "stars": 530,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6206,7 +6206,7 @@
       "创意",
       "gemi"
     ],
-    "description": "AI扮演Gemi-Gotchi角色，You are **Gemi-Gotchi**, a mobile-first virtual pet application powered by Gemin...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1521,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6228,7 +6228,7 @@
       "code",
       "职场"
     ],
-    "description": "AI扮演Dead Code Surgeon - Phased Codebase Audit & Cleanup Roadmap角色，You are a senior software architect specializing in codebase health and technica...",
+    "description": "专注审计的AI技能",
     "stars": 22578,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6247,7 +6247,7 @@
       "ai",
       "lazy"
     ],
-    "description": "AI扮演Lazy AI Email Detector角色，# Prompt: Lazy AI Email Detector\n**Author:** Scott M  \n**Version:** 1.0  \n**Goal...",
+    "description": "专注邮件的AI技能",
     "stars": 1329,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6265,7 +6265,7 @@
       "style",
       "AI工具"
     ],
-    "description": "AI扮演Writing Style Replication角色，Introduction\n- **YOU ARE** an **EXPERT AI SYSTEM** specializing in writing style...",
+    "description": "专注写作的AI技能",
     "stars": 715,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6285,7 +6285,7 @@
       "hyper",
       "isometric"
     ],
-    "description": "AI扮演Hyper-Realistic 3D Isometric Ottoman Masterpiece角色，Generate a hyper-realistic 3D isometric masterpiece, set against a magnificent, ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1162,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6305,7 +6305,7 @@
       "low",
       "职场"
     ],
-    "description": "AI扮演low risk to uplift income角色，Act as a practical career strategist and financial risk advisor.\n\n## Objective\nH...",
+    "description": "专注风险管理的AI技能",
     "stars": 1596,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6325,7 +6325,7 @@
       "创意",
       "aisle"
     ],
-    "description": "AI扮演Bookstore Aisle (artsy, quiet luxury)角色，{\n  \"category\": \"BOOKSTORE_AISLE_ARTSY\",\n  \"identity_lock\": {\n    \"enabled\": tru...",
+    "description": "专注用户体验、用户界面的AI技能",
     "stars": 1389,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6347,7 +6347,7 @@
       "integration",
       "js"
     ],
-    "description": "AI扮演Production-Grade PostHog Integration for Next.js 15 (App Router)角色，Production-Grade PostHog Integration for Next.js 15 (App Router)\nRole\nYou are a ...",
+    "description": "专注产品、集成的AI技能",
     "stars": 5878,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6367,7 +6367,7 @@
       "创意",
       "webcam"
     ],
-    "description": "AI扮演Photorealistic Webcam Bedroom Scene Prompt角色，{\n  \"subject\": {\n    \"description\": \"A young woman lying on a bed, holding a sma...",
+    "description": "专注Web、照片、提示词的AI技能",
     "stars": 998,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6389,7 +6389,7 @@
       "编程",
       "ai"
     ],
-    "description": "AI扮演CLAUDE.md Generator for AI Coding Agents角色，You are a CLAUDE.md architect — an expert at writing concise, high-impact projec...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 259,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6408,7 +6408,7 @@
       "AI工具",
       "conversation"
     ],
-    "description": "AI扮演Scam Detection Conversation Helper角色，# Scam Detection Helper – v3.1\n# Author: Scott M\n# Goal: Help you spot scams, te...",
+    "description": "专注辅助的AI技能",
     "stars": 9106,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6428,7 +6428,7 @@
       "strategist",
       "community"
     ],
-    "description": "AI扮演Senior Crypto Yapper & Community Strategist角色，Act as a Senior Crypto Yapper and Community Strategist. You are an expert in cra...",
+    "description": "专注Unity的AI技能",
     "stars": 825,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6450,7 +6450,7 @@
       "创意",
       "property"
     ],
-    "description": "AI扮演License Selection Assistant from Intellectual Property expert角色，You are an expert assistant in intellectual property and licensing. Your role is...",
+    "description": "专注助手的AI技能",
     "stars": 1130,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6470,7 +6470,7 @@
       "职场",
       "customization"
     ],
-    "description": "AI扮演Resume Customization Prompt – STRATEGIC INTEGRITY角色，## Resume Customization Prompt – STRATEGIC INTEGRITY v3.26 (GENERIC)\n- **Author:...",
+    "description": "专注提示词、简历的AI技能",
     "stars": 1526,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6488,7 +6488,7 @@
       "solver",
       "学习"
     ],
-    "description": "AI扮演⚙️ CONSTRAINT SOLVER MODE角色，You are operating in CONSTRAINT SOLVER MODE.\n\nCORE PRINCIPLE: Your role is to tr...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1572,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6504,7 +6504,7 @@
       "创意",
       "womanized"
     ],
-    "description": "AI扮演Womanized角色，{\n  \"prompt\": {\n    \"subject\": {\n      \"name\": \"Elena\",\n      \"age\": 35,\n      \"...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1925,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6520,7 +6520,7 @@
       "生活",
       "aaa"
     ],
-    "description": "AI扮演Aaa角色，ROLE: Senior Node.js Automation Engineer\n\nGOAL:\nBuild a REAL, production-ready A...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 903,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6536,7 +6536,7 @@
       "nbx",
       "学习"
     ],
-    "description": "AI扮演NBX角色，# ROLE\nYou are a Grand Unified Intelligence, a Principle Polymath, and a Symbiot...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1078,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6554,7 +6554,7 @@
       "ultra",
       "学习"
     ],
-    "description": "AI扮演🔒 ULTRA-STRICT MODE角色，You are operating in ULTRA-STRICT MODE combining: simulated air-gapped isolation...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 4778,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6576,7 +6576,7 @@
       "vibe",
       "创意"
     ],
-    "description": "AI扮演Plant Bouquet Warm Lamp (your example vibe, adult-safe)角色，{\n  \"category\": \"PLANTS_BOUQUET_WARM_LAMP\",\n  \"subject\": {\n    \"demographics\": \"...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1323,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6598,7 +6598,7 @@
       "and",
       "tech"
     ],
-    "description": "AI扮演The Pragmatic Architect: Mastering Tech with Humor and Precision角色，PERSONA & VOICE:\nYou are \"The Pragmatic Architect\"—a seasoned tech specialist wh...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 8754,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6615,7 +6615,7 @@
       "strategic",
       "学习"
     ],
-    "description": "AI扮演🚀 STRATEGIC MODE角色，You are operating in STRATEGIC MODE.\n\nCORE PRINCIPLE: Your role is to transform ...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1501,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6632,7 +6632,7 @@
       "fundamentals",
       "写作"
     ],
-    "description": "AI扮演seo-fundamentals角色，---\nname: seo-fundamentals\ndescription: SEO fundamentals, E-E-A-T, Core Web Vita...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 1839,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6669,7 +6669,7 @@
       "创意",
       "caf"
     ],
-    "description": "AI扮演Café Portrait Prompt Description角色，{\n  \"subject\": {\n    \"description\": \"A young, attractive blonde woman with sleek...",
+    "description": "专注提示词的AI技能",
     "stars": 386,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6686,7 +6686,7 @@
       "创意",
       "mothers"
     ],
-    "description": "AI扮演Mothers day角色，Main Prompt -\nUsing the uploaded reference photo of my mom (or me with mom), des...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 681,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6708,7 +6708,7 @@
       "in",
       "soft"
     ],
-    "description": "AI扮演A relaxed copper-haired woman resting sideways on a bed in a soft, low-light setting.角色，{\n  \"image_analysis\": {\n    \"general_environment\": {\n      \"type\": \"Indoor\",\n   ...",
+    "description": "专注REST的AI技能",
     "stars": 247,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6725,7 +6725,7 @@
       "plugin",
       "ckeditor"
     ],
-    "description": "AI扮演CKEditor 5 Plugin角色，You are a senior CKEditor 5 plugin architect.\n\nI need you to build a complete CK...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 296,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6745,7 +6745,7 @@
       "handle",
       "bug"
     ],
-    "description": "AI扮演Handle the bug in feature角色，Act as a senior Flutter engineer + GIS/map system expert (ArcGIS-like SDK).\n\n## ...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 826,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6763,7 +6763,7 @@
       "app",
       "create"
     ],
-    "description": "AI扮演create app screenshots角色，Act as a senior mobile app growth strategist + Play Store ASO expert + marketing...",
+    "description": "专注创作的AI技能",
     "stars": 8111,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6783,7 +6783,7 @@
       "design",
       "创意"
     ],
-    "description": "AI扮演Design System Extraction Prompt Kit角色，You are a senior design systems engineer conducting a forensic audit of an exist...",
+    "description": "专注设计、提示词的AI技能",
     "stars": 3910,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6805,7 +6805,7 @@
       "创意",
       "art"
     ],
-    "description": "AI扮演Cinematic Neo-Noir Triptych in Digital Art角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 3656,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6827,7 +6827,7 @@
       "创意",
       "photograph"
     ],
-    "description": "AI扮演Vintage Black and White Photograph of Galata Tower角色，{\n  \"colors\": {\n    \"color_temperature\": \"neutral\",\n    \"contrast_level\": \"high\"...",
+    "description": "专注照片的AI技能",
     "stars": 5449,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6845,7 +6845,7 @@
       "team",
       "学习"
     ],
-    "description": "AI扮演🛡️ RED TEAM MODE角色，You are operating in RED TEAM MODE.\n\nCORE PRINCIPLE: Your role is to identify we...",
+    "description": "专注团队的AI技能",
     "stars": 1306,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6863,7 +6863,7 @@
       "编程",
       "terraform"
     ],
-    "description": "AI扮演Terraform Platform Engineer角色，# ROLE & PURPOSE\n\nYou are a **Platform Engineer with deep expertise in Terraform...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 946,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6882,7 +6882,7 @@
       "ai",
       "学习"
     ],
-    "description": "AI扮演Make AI write naturally角色，# Prompt: PlainTalk Style Guide\n# Author: Scott M\n# Audience: This guide is for ...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1345,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6904,7 +6904,7 @@
       "创意",
       "hyper"
     ],
-    "description": "AI扮演Hyper-Realistic Marvel Comic Fusion Image Generation角色，{\n  \"image_generation\": {\n    \"requirements\": {\n      \"face_preservation\": {\n   ...",
+    "description": "专注漫画、图像的AI技能",
     "stars": 1314,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6924,7 +6924,7 @@
       "创意",
       "full"
     ],
-    "description": "AI扮演Elevator Mirror OOTD (full-body)角色，{\n  \"category\": \"ELEVATOR_MIRROR_OOTD\",\n  \"subject\": {\n    \"demographics\": \"Adul...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1782,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6945,7 +6945,7 @@
       "summary",
       "and"
     ],
-    "description": "AI扮演Meeting Summary and Action Plan Generator角色，Summarize the meeting transcript by performing the following tasks:\n\n- **State t...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 908,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6965,7 +6965,7 @@
       "创意",
       "finance"
     ],
-    "description": "AI扮演Finance Tracker App Development Plan角色，Act as a Senior Flutter Architect + Product Engineer. You have over 10 years of ...",
+    "description": "专注金融的AI技能",
     "stars": 291,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -6987,7 +6987,7 @@
       "serene",
       "rowboat"
     ],
-    "description": "AI扮演Serene Evening Rowboat Scene in Illustrative Realism角色，{\n  \"colors\": {\n    \"color_temperature\": \"neutral\",\n    \"contrast_level\": \"mediu...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 9180,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7006,7 +7006,7 @@
       "编程",
       "expert"
     ],
-    "description": "AI扮演Packer Automation & Imaging Expert角色，# Agent Profile: Packer Automation & Imaging Expert\n\n\nThis document defines the ...",
+    "description": "专注自动化的AI技能",
     "stars": 9981,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7025,7 +7025,7 @@
       "photography",
       "创意"
     ],
-    "description": "AI扮演Moody Cinematic Portrait Photography角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool\",\n    \"contrast_level\": \"medium\",...",
+    "description": "专注照片的AI技能",
     "stars": 6351,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7044,7 +7044,7 @@
       "sunset",
       "创意"
     ],
-    "description": "AI扮演Cinematic Sunset Boat Scene角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"low\",\n  ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1081,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7064,7 +7064,7 @@
       "skill",
       "编程"
     ],
-    "description": "AI扮演Web Application Testing Skill (Imported)角色，---\nname: web-application-testing-skill\ndescription: A toolkit for interacting w...",
+    "description": "专注Web、测试的AI技能",
     "stars": 9440,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7083,7 +7083,7 @@
       "skill",
       "编程"
     ],
-    "description": "AI扮演Web Application Testing Skill角色，---\nname: web-application-testing-skill\ndescription: A toolkit for interacting w...",
+    "description": "专注Web、测试的AI技能",
     "stars": 929,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7102,7 +7102,7 @@
       "创意",
       "serene"
     ],
-    "description": "AI扮演Serene Autumn Lakeside Illustration角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"medium\",...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1468,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7123,7 +7123,7 @@
       "创意",
       "protector"
     ],
-    "description": "AI扮演The Architect: Hacker-Protector & Viral Engineer角色，SYSTEM IDENTITY: THE ARCHITECT (Hacker-Protector & Viral Engineer)\n\n##1. CORE DI...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 7296,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7145,7 +7145,7 @@
       "figure",
       "创意"
     ],
-    "description": "AI扮演Dramatic Digital Painting of a Solitary Figure in a Snowy Landscape角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 7608,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7166,7 +7166,7 @@
       "plataforma",
       "escopo"
     ],
-    "description": "AI扮演Plataforma Escopo Bugbouty Cyber Hunter Lab角色，You are a Senior Software Architect specializing in Site Reliability Engineering...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 9402,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7188,7 +7188,7 @@
       "and",
       "bug"
     ],
-    "description": "AI扮演Comprehensive Repository Analysis and Bug Fixing Framework角色，Act as a comprehensive repository analysis and bug-fixing expert. You are tasked...",
+    "description": "代码仓库全面分析，梳理架构与质量评估",
     "stars": 743,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7208,7 +7208,7 @@
       "cute",
       "sticker"
     ],
-    "description": "AI扮演Cute Family Cartoon Sticker Design角色，{\n  \"prompt\": \"You will perform an image edit using the people from the provided...",
+    "description": "专注设计、家庭的AI技能",
     "stars": 6712,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7224,7 +7224,7 @@
       "生活",
       "simmerdeep"
     ],
-    "description": "AI扮演simmerdeep角色，Simmerdeep Crypto Quant: Version 2.0 (The Freshness Update)\nAct as my Senior Tra...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1365,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7243,7 +7243,7 @@
       "osint",
       "学习"
     ],
-    "description": "AI扮演Source-Hunting / OSINT Mode角色，Act as an Open-Source Intelligence (OSINT) and Investigative Source Hunter. Your...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1151,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7261,7 +7261,7 @@
       "生活",
       "istanbul"
     ],
-    "description": "AI扮演Istanbul Travel Journal角色，{\n  \"title\": \"Istanbul Travel Journal\",\n  \"artwork_style\": \"vibrant, child-like ...",
+    "description": "专注旅行、日志的AI技能",
     "stars": 3710,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7280,7 +7280,7 @@
       "agent",
       "store"
     ],
-    "description": "AI扮演App Store Submission Agent角色，Purpose:\nPre-validate iOS builds against Apple’s App Store Review Guidelines bef...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 2046,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7302,7 +7302,7 @@
       "创意",
       "text"
     ],
-    "description": "AI扮演Text-to-Image with Reference - Billiards Bar Scene角色，{\n  \"meta_data\": {\n    \"task_type\": \"text_to_image_with_reference\",\n    \"version...",
+    "description": "专注图像的AI技能",
     "stars": 5186,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7322,7 +7322,7 @@
       "plus",
       "学习"
     ],
-    "description": "AI扮演Paladin Octem Plus (Research Swarm)角色，{[\n  {\n    \"SYSTEM_AUDIT_REPORT\": {\n      \"PROMPT_NAME\": \"PALADIN_OCTEM_PLUS_v3....",
+    "description": "专注研究的AI技能",
     "stars": 753,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7340,7 +7340,7 @@
       "deep",
       "学习"
     ],
-    "description": "AI扮演Deep Learning Loop角色，# Deep Learning Loop System v1.0\n> Role: A \"Deep Learning Collaborative Mentor\" ...",
+    "description": "专注学习的AI技能",
     "stars": 3882,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7360,7 +7360,7 @@
       "创意",
       "of"
     ],
-    "description": "AI扮演Corsairs of the Crimson Void角色，{\n  \"title\": \"Corsairs of the Crimson Void\",\n  \"description\": \"A high-octane cin...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1494,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7382,7 +7382,7 @@
       "photograph",
       "young"
     ],
-    "description": "AI扮演Dreamy Artistic Photograph of a Young Woman in a Meadow角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"medium\",...",
+    "description": "专注照片的AI技能",
     "stars": 277,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7399,7 +7399,7 @@
       "创意",
       "smuggler"
     ],
-    "description": "AI扮演Galactic Smuggler角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1452,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7421,7 +7421,7 @@
       "创意",
       "room"
     ],
-    "description": "AI扮演Vibrant Fauvist Style Sunlit Living Room Illustration角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 213,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7441,7 +7441,7 @@
       "candid",
       "创意"
     ],
-    "description": "AI扮演Subway Platform (street candid, moody)角色，{\n  \"category\": \"SUBWAY_PLATFORM_STREET_CANDID\",\n  \"identity_lock\": {\n    \"enabl...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 4365,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7460,7 +7460,7 @@
       "book",
       "创意"
     ],
-    "description": "AI扮演Comic Book Team Illustration角色，{\n  \"colors\": {\n    \"color_temperature\": \"neutral\",\n    \"contrast_level\": \"mediu...",
+    "description": "专注团队、漫画的AI技能",
     "stars": 1252,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7478,7 +7478,7 @@
       "de",
       "planjedor"
     ],
-    "description": "AI扮演Planjedor de Tarefas角色，---\nname: sa-plan\ndescription: Structured Autonomy Planning Prompt\nmodel: Claude...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 1563,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7500,7 +7500,7 @@
       "collage",
       "创意"
     ],
-    "description": "AI扮演Editorial Winter Poster–Style Multi-Panel Collage Generation角色，{\n  \"meta_protocols\": {\n    \"reference_adherence\": {\n      \"instruction\": \"Use t...",
+    "description": "专注冬季的AI技能",
     "stars": 516,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7522,7 +7522,7 @@
       "创意",
       "warm"
     ],
-    "description": "AI扮演Warm-Toned Creative Scene with Paper Figures角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 336,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7540,7 +7540,7 @@
       "创意",
       "solitude"
     ],
-    "description": "AI扮演Impressionistic Urban Solitude角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"medium\",...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 10671,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7559,7 +7559,7 @@
       "surveillance",
       "创意"
     ],
-    "description": "AI扮演Minimalist Surveillance Illustration Prompt角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "专注提示词的AI技能",
     "stars": 1145,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7577,7 +7577,7 @@
       "workshop",
       "the"
     ],
-    "description": "AI扮演The Aether Workshop角色，{\n  \"title\": \"The Aether Workshop\",\n  \"description\": \"A vibrant, nostalgic snaps...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 221,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7597,7 +7597,7 @@
       "创意",
       "miniatura"
     ],
-    "description": "AI扮演Fazer miniatura de coisas/moleculas角色，Prompt:\n${input_object}: (anything you want to be the subject)\n${input_language}...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1121,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7619,7 +7619,7 @@
       "seat",
       "golden"
     ],
-    "description": "AI扮演Passenger Seat Car Selfie (golden hour, candid)角色，{\n  \"category\": \"CAR_PASSENGER_SEAT_SELFIE\",\n  \"identity_lock\": {\n    \"enabled\":...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 808,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7639,7 +7639,7 @@
       "创意",
       "room"
     ],
-    "description": "AI扮演Detailed mirror-selfie room scene角色，### Scene\nMirror selfie in an computer corner, blue color tone.\n\n### Subject\n* G...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1241,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7658,7 +7658,7 @@
       "research",
       "ai"
     ],
-    "description": "AI扮演AI Provider Research Expert角色，**Role & Objective:**\nYou are an expert AI Infrastructure Research Analyst. Your...",
+    "description": "专注研究的AI技能",
     "stars": 317,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7676,7 +7676,7 @@
       "md",
       "写作"
     ],
-    "description": "AI扮演CLAUDE.md Assembly角色，You are compiling the definitive CLAUDE.md design system reference file.\nThis fi...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 811,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7697,7 +7697,7 @@
       "your",
       "创意"
     ],
-    "description": "AI扮演Turn Your Photo Into a Simpsons Scene角色，Use the uploaded photo as the ONLY reference for composition and subjects. Recre...",
+    "description": "专注照片的AI技能",
     "stars": 1955,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7715,7 +7715,7 @@
       "career",
       "职场"
     ],
-    "description": "AI扮演Career Intelligence Analyst角色，<prompt>\n<role>\nYou are a Career Intelligence Analyst — part interviewer, part p...",
+    "description": "专注情报的AI技能",
     "stars": 6294,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7731,7 +7731,7 @@
       "tabs",
       "写作"
     ],
-    "description": "AI扮演tabs角色，Objective: Compare product in current tab to items in other tabs\n\n1. **Identify ...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 362,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7750,7 +7750,7 @@
       "编程",
       "bug"
     ],
-    "description": "AI扮演handle bug in feature角色，Act as a senior software engineer and system architect.\n\n## Context\nI am a devel...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 8067,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7769,7 +7769,7 @@
       "photography",
       "创意"
     ],
-    "description": "AI扮演Cinematic Street Photography Prompt角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"medium\",...",
+    "description": "专注照片、提示词的AI技能",
     "stars": 7536,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7789,7 +7789,7 @@
       "创意",
       "broken"
     ],
-    "description": "AI扮演A broken, soul-crushed medieval knight角色，{\n  \"subject_and_scene\": {\n    \"main_subject\": \"A broken, soul-crushed medieval ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 7057,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7811,7 +7811,7 @@
       "wassily",
       "创意"
     ],
-    "description": "AI扮演Abstract Geometric Art Prompt Inspired by Wassily Kandinsky角色，{\n  \"colors\": {\n    \"color_temperature\": \"neutral\",\n    \"contrast_level\": \"high\"...",
+    "description": "专注提示词的AI技能",
     "stars": 1132,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7830,7 +7830,7 @@
       "custom",
       "创意"
     ],
-    "description": "AI扮演Custom Travel Plan Generator角色，You are a **Travel Planner**. Create a practical, mid-range travel itinerary tai...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 378,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7852,7 +7852,7 @@
       "ticker",
       "big"
     ],
-    "description": "AI扮演Big 4 style report for retail traders - Enter the name and ticker of a U.S. publicly traded company.角色，Author: Rick Kotlarz, @RickKotlarz\n\nYou are **CompanyAnalysis GPT**, a professio...",
+    "description": "专注报告的AI技能",
     "stars": 1577,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7874,7 +7874,7 @@
       "match",
       "during"
     ],
-    "description": "AI扮演Ultra-Realistic Turkish Living Room Scene During Football Match角色，Ultra-realistic Turkish TV-series style night photo, vertical framing like a pho...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1664,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7894,7 +7894,7 @@
       "echoes",
       "of"
     ],
-    "description": "AI扮演Echoes of the Rust Age角色，{\n  \"title\": \"Echoes of the Rust Age\",\n  \"description\": \"Two survivors navigate ...",
+    "description": "专注Rust的AI技能",
     "stars": 698,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7910,7 +7910,7 @@
       "human",
       "写作"
     ],
-    "description": "AI扮演human角色，```\nYou are an expert human writer and editor with 20+ years of experience. Your...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 1892,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7928,7 +7928,7 @@
       "illustration",
       "minimalist"
     ],
-    "description": "AI扮演Minimalist Fisherman Illustration角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 948,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7949,7 +7949,7 @@
       "landscape",
       "创意"
     ],
-    "description": "AI扮演Minimalist Landscape Illustration by Ryo Takemasa角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 4200,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7970,7 +7970,7 @@
       "vibe",
       "创意"
     ],
-    "description": "AI扮演Balcony Coffee (morning haze, plant vibe)角色，{\n  \"category\": \"BALCONY_COFFEE_PLANTS\",\n  \"identity_lock\": {\n    \"enabled\": tru...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1351,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -7987,7 +7987,7 @@
       "superhuman",
       "学习"
     ],
-    "description": "AI扮演Superhuman lab角色，SUPERHUMAN LAB PROMPT — ADVANCED HUMAN PERFORMANCE RESEARCH\n\nYou are an advanced...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1873,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8007,7 +8007,7 @@
       "创意",
       "of"
     ],
-    "description": "AI扮演Shadows of the Blue Note角色，{\n  \"title\": \"Shadows of the Blue Note\",\n  \"description\": \"A tense, high-stakes ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 2099,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8023,7 +8023,7 @@
       "创意",
       "cowboy"
     ],
-    "description": "AI扮演Cowboy角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 756,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8044,7 +8044,7 @@
       "创意",
       "cozy"
     ],
-    "description": "AI扮演Snowy Street Cozy (winter fit, cinematic)角色，{\n  \"category\": \"SNOWY_STREET_WINTER_CANDID\",\n  \"identity_lock\": {\n    \"enabled\"...",
+    "description": "专注冬季的AI技能",
     "stars": 1882,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8066,7 +8066,7 @@
       "创意",
       "up"
     ],
-    "description": "AI扮演Cafe Window Seat (close-up, tactile realism)角色，{\n  \"category\": \"CAFE_WINDOW_SEAT_CLOSEUP\",\n  \"subject\": {\n    \"demographics\": \"...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 3487,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8082,7 +8082,7 @@
       "创意",
       "japan"
     ],
-    "description": "AI扮演Japan角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 708,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8098,7 +8098,7 @@
       "创意",
       "paint"
     ],
-    "description": "AI扮演Paint角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 270,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8119,7 +8119,7 @@
       "创意",
       "istanbul"
     ],
-    "description": "AI扮演Illustrative Hand-Drawn Istanbul Skyline Prompt角色，{\n  \"subject\": {\n    \"description\": \"A hand-drawn, child-like illustration of Is...",
+    "description": "专注提示词的AI技能",
     "stars": 696,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8139,7 +8139,7 @@
       "high",
       "创意"
     ],
-    "description": "AI扮演Ultra-High-Resolution Portrait Restoration角色，{\n  \"prompt\": \"Restore and fully enhance this old, blurry, faded, and damaged po...",
+    "description": "专注REST的AI技能",
     "stars": 385,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8161,7 +8161,7 @@
       "magritte",
       "painting"
     ],
-    "description": "AI扮演Surrealist Painting Description: A Study of René Magritte's Style角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 9410,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8183,7 +8183,7 @@
       "编程",
       "mapping"
     ],
-    "description": "AI扮演Professional Full-Stack Developer for Network Mapping & Monitoring Application角色，Act as a professional full-stack developer. You are tasked with developing a web...",
+    "description": "专注全栈开发、监控的AI技能",
     "stars": 49594,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8202,7 +8202,7 @@
       "melody",
       "mystery"
     ],
-    "description": "AI扮演The Midnight Melody Mystery角色，{\n  \"title\": \"The Midnight Melody Mystery\",\n  \"description\": \"A charming, animat...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 43204,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8221,7 +8221,7 @@
       "manga",
       "创意"
     ],
-    "description": "AI扮演Seinen Manga Masterpiece Transformation角色，Transform the uploaded image into an ultra-detailed black and white seinen manga...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 544,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8240,7 +8240,7 @@
       "创意",
       "serene"
     ],
-    "description": "AI扮演Serene Moonlit Street Illustration角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1776,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8259,7 +8259,7 @@
       "AI工具",
       "ai"
     ],
-    "description": "AI扮演$500/Hour AI Consultant Prompt角色，You are Lyra, a master-level Al prompt optimization specialist. Your mission: tr...",
+    "description": "专注提示词的AI技能",
     "stars": 838,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8275,7 +8275,7 @@
       "timeline",
       "职场"
     ],
-    "description": "AI扮演timeline角色，Objective: Construct a chronological sequence of events\n\n1. **Identify the centr...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 470,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8294,7 +8294,7 @@
       "personalized",
       "tutor"
     ],
-    "description": "AI扮演Personalized Exam Preparation Tutor角色，You are my personal exam-preparation tutor for ${module_name}.\n\nYour job is to a...",
+    "description": "专注辅导的AI技能",
     "stars": 593,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8316,7 +8316,7 @@
       "woman",
       "surreal"
     ],
-    "description": "AI扮演Turkish woman in Ankara with a surreal twist角色，Ultra-realistic amateur street photo of a 27-year-old Turkish-looking curvy woma...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1499,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8336,7 +8336,7 @@
       "locked",
       "创意"
     ],
-    "description": "AI扮演Identity-Locked Image Transformation Prompt角色，IDENTITY LOCK — FACIAL PRESERVATION MODE\n\nReference Image(s) Provided: [attach 1...",
+    "description": "专注提示词、图像的AI技能",
     "stars": 814,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8356,7 +8356,7 @@
       "创意",
       "up"
     ],
-    "description": "AI扮演Cinematic Close-Up Portrait Generation角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 6161,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8377,7 +8377,7 @@
       "创意",
       "soft"
     ],
-    "description": "AI扮演Pilates Studio (soft daylight, athletic elegance)角色，{\n  \"category\": \"PILATES_STUDIO_SOFT_DAYLIGHT\",\n  \"identity_lock\": {\n    \"enable...",
+    "description": "专注优雅的AI技能",
     "stars": 6111,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8394,7 +8394,7 @@
       "adv",
       "写作"
     ],
-    "description": "AI扮演devil adv角色，Objective: Construct a compelling counter-argument\n\n1. **Identify the central po...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 9478,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8416,7 +8416,7 @@
       "and",
       "environment"
     ],
-    "description": "AI扮演Photorealistic Image Prompt for Fashion and Environment角色，{\n  \"image_prompt\": {\n    \"subject\": {\n      \"type\": \"Adult woman (21+) matching...",
+    "description": "专注照片、时尚、提示词的AI技能",
     "stars": 1182,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8437,7 +8437,7 @@
       "写作",
       "day"
     ],
-    "description": "AI扮演Cinematic Triptych: A Day in the Countryside角色，{\n  \"colors\": {\n    \"color_temperature\": \"cool\",\n    \"contrast_level\": \"medium\",...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 7941,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8457,7 +8457,7 @@
       "the",
       "创意"
     ],
-    "description": "AI扮演The Covert Exchange in the Fog角色，{\n  \"prompt\": \"You will perform an image edit using the people from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 123507,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8477,7 +8477,7 @@
       "farmers",
       "创意"
     ],
-    "description": "AI扮演Farmers Market (colorful produce, candid)角色，{\n  \"category\": \"FARMERS_MARKET_PRODUCE_CANDID\",\n  \"identity_lock\": {\n    \"enabl...",
+    "description": "专注市场的AI技能",
     "stars": 4029,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8496,7 +8496,7 @@
       "generator",
       "职场"
     ],
-    "description": "AI扮演Dynamic character profile generator角色，As a dynamic character profile generator for interactive storytelling sessions. ...",
+    "description": "角色生成器，创建有深度的人物设定",
     "stars": 480,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8516,7 +8516,7 @@
       "meyhane",
       "创意"
     ],
-    "description": "AI扮演Ankara Night Scene in a Meyhane角色，Ultra-realistic, slightly comedic night scene in a small, slightly shabby Ankara...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 317,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8536,7 +8536,7 @@
       "research",
       "学习"
     ],
-    "description": "AI扮演Innovative Research Enhancement Ideas Generator角色，Act as a senior research associate in academia. When I provide you with papers, ...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 1343,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8555,7 +8555,7 @@
       "学习",
       "tutor"
     ],
-    "description": "AI扮演AI Exam Mastery Tutor角色，You are my personal exam preparation tutor for the chapter:\n\n${write_chapter_nam...",
+    "description": "专注辅导的AI技能",
     "stars": 1344,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8572,7 +8572,7 @@
       "商业",
       "echo"
     ],
-    "description": "AI扮演Echo innovation角色，You are an expert innovation strategist specializing in \"Echoes & Horizons\" synt...",
+    "description": "商业领域的AI技能，助力商业决策与增长",
     "stars": 6894,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8589,7 +8589,7 @@
       "glyth",
       "职场"
     ],
-    "description": "AI扮演Glyth_Maker角色，# ROLE: PALADIN OCTEM (Competitive Research Swarm)\n\n## 🏛️ THE PRIME DIRECTIVE\nYo...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 766,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8607,7 +8607,7 @@
       "global",
       "编程"
     ],
-    "description": "AI扮演# ANTIGRAVITY GLOBAL RULES角色，---\nname: antigravity-global-rules\ndescription: # ANTIGRAVITY GLOBAL RULES\n---\n\n...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 792,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8628,7 +8628,7 @@
       "scene",
       "创意"
     ],
-    "description": "AI扮演Transforming a Photo into a Post-Apocalyptic Scene角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "专注照片的AI技能",
     "stars": 1136,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8646,7 +8646,7 @@
       "编程",
       "pro"
     ],
-    "description": "AI扮演Synthesis Architect Pro角色，# Agent: Synthesis Architect Pro\n\n## Role & Persona\nYou are **Synthesis Architec...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 1430,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8665,7 +8665,7 @@
       "创意",
       "whispers"
     ],
-    "description": "AI扮演Whispers in Light Trails角色，{\n  \"title\": \"Whispers in Light Trails\",\n  \"description\": \"A cinematic long-expo...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 3218,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8684,7 +8684,7 @@
       "resume",
       "职场"
     ],
-    "description": "AI扮演ATS Resume Scanner Simulator角色，## ATS Resume Scanner Simulator (Hardened v2.0 - \"Reasoned Logic\" Edition)\n**Aut...",
+    "description": "专注简历、扫描、模拟器的AI技能",
     "stars": 2131,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8705,7 +8705,7 @@
       "创意",
       "of"
     ],
-    "description": "AI扮演Shadows of the Cold War: The 1962 Exchange角色，{\n  \"prompt\": \"You will perform an image edit using the people from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1707,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8724,7 +8724,7 @@
       "and",
       "学习"
     ],
-    "description": "AI扮演Video review and teacher角色，You are an expert AI Engineering instructor's assistant, specialized in extracti...",
+    "description": "专注视频的AI技能",
     "stars": 1403,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8740,7 +8740,7 @@
       "viking",
       "职场"
     ],
-    "description": "AI扮演Viking角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 1728,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8757,7 +8757,7 @@
       "product",
       "infographic"
     ],
-    "description": "AI扮演Product Infographic角色，Create a premium minimalist industrial-design infographic for ${product}.\n\nThe i...",
+    "description": "专注产品、信息图的AI技能",
     "stars": 924,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8779,7 +8779,7 @@
       "vibe",
       "创意"
     ],
-    "description": "AI扮演Hotel Hallway Fit Check (mirror vibe, no phone shown)角色，{\n  \"category\": \"HOTEL_HALLWAY_FIT_CHECK\",\n  \"identity_lock\": {\n    \"enabled\": t...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1850,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8798,7 +8798,7 @@
       "technical",
       "学习"
     ],
-    "description": "AI扮演Taglish Technical Storytelling Editor角色，## Improved Single-Setup Prompt (Taglish, Delivery-First)\n\n```\nYou are a Narrati...",
+    "description": "专注故事的AI技能",
     "stars": 994,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8820,7 +8820,7 @@
       "fund",
       "职场"
     ],
-    "description": "AI扮演Elite Private Equity Fund Manager Stock Analysis角色，Act as a top-tier private equity fund manager. You have over 15 years of real tr...",
+    "description": "专注用户界面、分析的AI技能",
     "stars": 1280,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8838,7 +8838,7 @@
       "update",
       "编程"
     ],
-    "description": "AI扮演Update Agent Permissions角色，# Task: Update Agent Permissions\n\nPlease analyse our entire conversation and ide...",
+    "description": "编程开发领域的AI技能，提升编码效率与代码质量",
     "stars": 1261,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8854,7 +8854,7 @@
       "manimal",
       "生活"
     ],
-    "description": "AI扮演Manimal角色，### Style\n*   **Visual Texture:** Digital security camera footage, slightly grai...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1798,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8875,7 +8875,7 @@
       "创意",
       "serene"
     ],
-    "description": "AI扮演Cinematic Photography Triptych: Serene Meadow Portrait角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"medium\",...",
+    "description": "专注照片的AI技能",
     "stars": 893,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8894,7 +8894,7 @@
       "browsing",
       "学习"
     ],
-    "description": "AI扮演🕶️ INCOGNITO / PRIVATE BROWSING MODE角色，You are operating in INCOGNITO / PRIVATE BROWSING MODE.\n\nCORE PRINCIPLE: Treat e...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 422,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8914,7 +8914,7 @@
       "创意",
       "aisle"
     ],
-    "description": "AI扮演Grocery Aisle (relatable, comedic-candid)角色，{\n  \"category\": \"GROCERY_AISLE_RELATABLE_CANDID\",\n  \"identity_lock\": {\n    \"enab...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 695,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8930,7 +8930,7 @@
       "berre",
       "生活"
     ],
-    "description": "AI扮演berre角色，{\n  \"reference\": {\n    \"face_identity\": \"${face_identity:uploaded reference imag...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 3051,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8948,7 +8948,7 @@
       "wrinkle",
       "time"
     ],
-    "description": "AI扮演A Wrinkle in Time角色，{\n  \"prompt\": \"You will perform an image edit using the person from the provided...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1253,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8965,7 +8965,7 @@
       "storyboard",
       "写作"
     ],
-    "description": "AI扮演Storyboard Grid角色，A clean 3×3 [ratio] storyboard grid with nine equal [ratio] sized panels on [4:5...",
+    "description": "专注故事的AI技能",
     "stars": 571,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -8984,7 +8984,7 @@
       "hack",
       "创意"
     ],
-    "description": "AI扮演Protocol 2084: The Alleyway Hack角色，{\n  \"prompt\": \"You will perform an image edit transforming the male subject into...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 558,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9006,7 +9006,7 @@
       "in",
       "创意"
     ],
-    "description": "AI扮演Ultra-Realistic Street Photo Prompt: Turkish Woman in Ankara角色，Ultra-realistic amateur street photo of a 27-year-old Turkish-looking curvy woma...",
+    "description": "专注照片、提示词的AI技能",
     "stars": 1818,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9024,7 +9024,7 @@
       "midnight",
       "informant"
     ],
-    "description": "AI扮演The Midnight Informant角色，{\n  \"title\": \"The Midnight Informant\",\n  \"description\": \"A tense, film noir mome...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 9810,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9043,7 +9043,7 @@
       "健康",
       "integrative"
     ],
-    "description": "AI扮演Comprehensive Integrative Medical Writing角色，Act like a licensed, highly experienced ${practitioner_role} with expertise in $...",
+    "description": "专注写作、医疗的AI技能",
     "stars": 1378,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9062,7 +9062,7 @@
       "mirror",
       "创意"
     ],
-    "description": "AI扮演Mirror Selfie Scene Description角色，Scene\n\nMirror selfie in an computer corner, blue color tone.\n\nSubject\n\nGender ex...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 1436,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9083,7 +9083,7 @@
       "on",
       "职场"
     ],
-    "description": "AI扮演Build a Web3 Wallet on Playnance Blockchain角色，You are **The Playnance Web3 Architect**, my dedicated expert for building, depl...",
+    "description": "专注Web、用户界面的AI技能",
     "stars": 563,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9104,7 +9104,7 @@
       "写作",
       "lighting"
     ],
-    "description": "AI扮演Dramatic Horse Silhouette in Cinematic Lighting角色，{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"high\",\n ...",
+    "description": "写作领域的AI技能，提升文字表达与内容创作能力",
     "stars": 1386,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9122,7 +9122,7 @@
       "学习",
       "academic"
     ],
-    "description": "AI扮演Senior Academic Advisor角色，Act as a senior research associate in academia, assisting your PhD student in pr...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 1249,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9142,7 +9142,7 @@
       "scene",
       "mirror"
     ],
-    "description": "AI扮演Realistic Mirror-Selfie Scene Creation角色，“Mirror-selfie scene in a modern apartment interior. A young woman with long, na...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 5671,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9163,7 +9163,7 @@
       "创意",
       "gala"
     ],
-    "description": "AI扮演The Aether Prince at the Crystal Gala角色，{\n  \"title\": \"The Aether Prince at the Crystal Gala\",\n  \"description\": \"A breath...",
+    "description": "创意领域的AI技能，激发灵感产出独特内容",
     "stars": 465,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9181,7 +9181,7 @@
       "plaintalk",
       "学习"
     ],
-    "description": "AI扮演PlainTalk Style Guide角色，# Prompt: PlainTalk Style Guide\n# Author: Scott M\n# Audience: AI users, develope...",
+    "description": "专注用户界面的AI技能",
     "stars": 1738,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9197,7 +9197,7 @@
       "reviews",
       "学习"
     ],
-    "description": "AI扮演reviews角色，Objective: Summarize many reviews\n\n1. **Process available reviews**\n\n    * Note ...",
+    "description": "学习领域的AI技能，高效掌握新知识与技能",
     "stars": 9721,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9213,7 +9213,7 @@
       "健康",
       "virtual"
     ],
-    "description": "Act as a Virtual Doctor. You are a knowledgeable healthcare AI with expertise in diagnosing illnesse...",
+    "description": "健康领域的AI技能，科学管理身心健康",
     "stars": 919,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9229,7 +9229,7 @@
       "健康",
       "acls"
     ],
-    "description": "Persona  You are a highly skilled Medical Education Specialist and ACLS/BLS Instructor. Your tone is...",
+    "description": "专注模拟器的AI技能",
     "stars": 1873,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9245,7 +9245,7 @@
       "健康",
       "dentist"
     ],
-    "description": "I want you to act as a dentist. I will provide you with details on an individual looking for dental ...",
+    "description": "健康领域的AI技能，科学管理身心健康",
     "stars": 353,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9261,7 +9261,7 @@
       "健康",
       "pharmacy"
     ],
-    "description": "Act as a Pharmacy Research Assistant. You are an expert in supporting pharmaceutical research teams ...",
+    "description": "专注研究、助手的AI技能",
     "stars": 602,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9277,7 +9277,7 @@
       "健康",
       "through"
     ],
-    "description": "A cinematic, close-up portrait of a reference photo viewed through a reflective glass window. She ha...",
+    "description": "健康领域的AI技能，科学管理身心健康",
     "stars": 1871,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9293,7 +9293,7 @@
       "健康",
       "medical"
     ],
-    "description": "Act as a Medical Consultant. You are an experienced healthcare professional with a deep understandin...",
+    "description": "专注医疗的AI技能",
     "stars": 939,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9309,7 +9309,7 @@
       "健康",
       "dermatology"
     ],
-    "description": "Act as a Dermatologist. You are an expert in dermatology, specializing in the diagnosis and treatmen...",
+    "description": "专注用户界面的AI技能",
     "stars": 27255,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9325,7 +9325,7 @@
       "健康",
       "diabetes"
     ],
-    "description": "Act as a Diabetes Treatment Advisor. You are an expert in diabetes management with extensive knowled...",
+    "description": "专注治疗方案的AI技能",
     "stars": 5599,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9341,7 +9341,7 @@
       "健康",
       "emergency"
     ],
-    "description": "I want you to act as my first aid traffic or house accident emergency response crisis professional. ...",
+    "description": "健康领域的AI技能，科学管理身心健康",
     "stars": 8809,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9357,7 +9357,7 @@
       "法律",
       "legal"
     ],
-    "description": "I want you to act as my legal advisor. I will describe a legal situation and you will provide advice...",
+    "description": "专注法律的AI技能",
     "stars": 372,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9373,7 +9373,7 @@
       "法律",
       "trade"
     ],
-    "description": "Act as a Trade Contract Review Expert. Your role is to meticulously analyze trade contracts for ${in...",
+    "description": "法律领域的实用AI技能",
     "stars": 1284,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9389,7 +9389,7 @@
       "法律",
       "business"
     ],
-    "description": "--- name: business-legal-assistant description: Assists businesses with legal inquiries, document pr...",
+    "description": "专注商业、法律、助手的AI技能",
     "stars": 1868,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9405,7 +9405,7 @@
       "法律",
       "startup"
     ],
-    "description": "I will ask of you to prepare a 1 page draft of a design partner agreement between a tech startup wit...",
+    "description": "专注创业的AI技能",
     "stars": 7059,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9421,7 +9421,7 @@
       "法律",
       "legal"
     ],
-    "description": "Build a legal risk reduction tool for freelancers called \"Shield\" — a contract generator and reviewe...",
+    "description": "专注法律、风险管理、工具的AI技能",
     "stars": 898,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9437,7 +9437,7 @@
       "育儿",
       "babysitter"
     ],
-    "description": "I want you to act as a babysitter. You will be responsible for supervising young children, preparing...",
+    "description": "育儿领域的实用AI技能",
     "stars": 6942,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9453,7 +9453,7 @@
       "育儿",
       "children's"
     ],
-    "description": "I want you to act as a Children's Book Creator. You excel at writing stories in a way that children ...",
+    "description": "智能创作工具，辅助创意实现与产出",
     "stars": 4048,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9469,7 +9469,7 @@
       "育儿",
       "school"
     ],
-    "description": "I want you to be my school mentor guide me not to just graduate with first class but to also laverag...",
+    "description": "育儿领域的实用AI技能",
     "stars": 565,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9485,7 +9485,7 @@
       "教育",
       "instructor"
     ],
-    "description": "I want you to act as an instructor in a school, teaching algorithms to beginners. You will provide c...",
+    "description": "教育领域的实用AI技能",
     "stars": 601,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9501,7 +9501,7 @@
       "教育",
       "educational"
     ],
-    "description": "I want you to act as an educational content creator. You will need to create engaging and informativ...",
+    "description": "智能创作工具，辅助创意实现与产出",
     "stars": 869,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9517,7 +9517,7 @@
       "教育",
       "course"
     ],
-    "description": "Act as a Course Assignment Grader. You are an expert in evaluating assignments across various course...",
+    "description": "专注课程的AI技能",
     "stars": 1300,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9533,7 +9533,7 @@
       "教育",
       "fill"
     ],
-    "description": "I want you to act as a fill in the blank worksheets generator for students learning English as a sec...",
+    "description": "智能生成工具，一键产出所需内容",
     "stars": 568,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9549,7 +9549,7 @@
       "教育",
       "innovative"
     ],
-    "description": "Act as a creative math educator. You are tasked with developing a unique teaching method for mathema...",
+    "description": "专注教学的AI技能",
     "stars": 5353,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9565,7 +9565,7 @@
       "电商",
       "act"
     ],
-    "description": "Act as an Etsy Niche Product Researcher. You are an expert in identifying niche markets and trending...",
+    "description": "专注产品、研究的AI技能",
     "stars": 9650,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9581,7 +9581,7 @@
       "电商",
       "senior"
     ],
-    "description": "Role: Act as a senior market research analyst specializing in digital advertising and cross-border e...",
+    "description": "专注研究、市场的AI技能",
     "stars": 8953,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9597,7 +9597,7 @@
       "电商",
       "电商选品助手"
     ],
-    "description": "Act as an E-commerce Product Selection Assistant. You are an expert in identifying high-potential pr...",
+    "description": "电商选品智能助手，帮你高效完成任务",
     "stars": 1743,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9613,7 +9613,7 @@
       "餐饮",
       "restaurant"
     ],
-    "description": "I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you woul...",
+    "description": "专注REST的AI技能",
     "stars": 1716,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9629,7 +9629,7 @@
       "餐饮",
       "food"
     ],
-    "description": "I want you to act as a food critic. I will tell you about a restaurant and you will provide a review...",
+    "description": "餐饮领域的实用AI技能",
     "stars": 322,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9645,7 +9645,7 @@
       "餐饮",
       "tea-taster"
     ],
-    "description": "Want somebody experienced enough to distinguish between various tea types based upon flavor profile ...",
+    "description": "餐饮领域的实用AI技能",
     "stars": 1602,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9661,7 +9661,7 @@
       "餐饮",
       "personal"
     ],
-    "description": "I want you to act as my personal chef. I will tell you about my dietary preferences and allergies, a...",
+    "description": "餐饮领域的实用AI技能",
     "stars": 1487,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9677,7 +9677,7 @@
       "房产",
       "real"
     ],
-    "description": "I want you to act as a real estate agent. I will provide you with details on an individual looking f...",
+    "description": "房产领域的实用AI技能",
     "stars": 1795,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9693,7 +9693,7 @@
       "房产",
       "interior"
     ],
-    "description": "I want you to act as an interior decorator. Tell me what kind of theme and design approach should be...",
+    "description": "房产领域的实用AI技能",
     "stars": 814,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9709,7 +9709,7 @@
       "金融",
       "accountant"
     ],
-    "description": "I want you to act as an accountant and come up with creative ways to manage finances. You'll need to...",
+    "description": "金融领域的实用AI技能",
     "stars": 778,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9725,7 +9725,7 @@
       "金融",
       "financial"
     ],
-    "description": "Want assistance provided by qualified individuals enabled with experience on understanding charts us...",
+    "description": "金融领域的实用AI技能",
     "stars": 901,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9741,7 +9741,7 @@
       "金融",
       "investment"
     ],
-    "description": "Seeking guidance from experienced staff with expertise on financial markets , incorporating factors ...",
+    "description": "金融领域的实用AI技能",
     "stars": 8898,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9757,7 +9757,7 @@
       "汽车",
       "automobile"
     ],
-    "description": "Need somebody with expertise on automobiles regarding troubleshooting solutions like; diagnosing pro...",
+    "description": "专注移动端的AI技能",
     "stars": 1216,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9773,7 +9773,7 @@
       "汽车",
       "car"
     ],
-    "description": "I want you to act as a car navigation system. You will develop algorithms for calculating the best r...",
+    "description": "汽车领域的实用AI技能",
     "stars": 1394,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9789,7 +9789,7 @@
       "客服",
       "ai"
     ],
-    "description": "Act as an AI Customer Support Specialist. You are an expert in managing customer inquiries and provi...",
+    "description": "客服领域的实用AI技能",
     "stars": 1308,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9805,7 +9805,7 @@
       "客服",
       "customer"
     ],
-    "description": "You are a customer support communication specialist trained in complaint de-escalation and brand-saf...",
+    "description": "客服领域的实用AI技能",
     "stars": 1776,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9821,7 +9821,7 @@
       "宠物",
       "pet"
     ],
-    "description": "I want you to act as a pet behaviorist. I will provide you with a pet and their owner and your goal ...",
+    "description": "宠物领域的实用AI技能",
     "stars": 4669,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9837,7 +9837,7 @@
       "音乐",
       "classical"
     ],
-    "description": "I want you to act as a classical music composer. You will create an original musical piece for a cho...",
+    "description": "专注音乐的AI技能",
     "stars": 1647,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9853,7 +9853,7 @@
       "音乐",
       "acoustic"
     ],
-    "description": "I want you to act as a acoustic guitar composer. I will provide you of an initial musical note and a...",
+    "description": "专注用户界面的AI技能",
     "stars": 7927,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9869,7 +9869,7 @@
       "音乐",
       "song"
     ],
-    "description": "I want you to act as a song recommender. I will provide you with a song and you will create a playli...",
+    "description": "音乐领域的实用AI技能",
     "stars": 1339,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9885,7 +9885,7 @@
       "职场",
       "career"
     ],
-    "description": "I want you to act as a career coach. I will provide details about my professional background, skills...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 900,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9901,7 +9901,7 @@
       "职场",
       "cover"
     ],
-    "description": "In order to submit applications for jobs, I want to write a new cover letter. Please compose a cover...",
+    "description": "职场领域的AI技能，提升职业竞争力与工作效率",
     "stars": 1360,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9917,7 +9917,7 @@
       "职场",
       "recruiter"
     ],
-    "description": "I want you to act as a recruiter. I will provide some information about job openings, and it will be...",
+    "description": "专注用户界面的AI技能",
     "stars": 6696,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9933,7 +9933,7 @@
       "生活",
       "travel"
     ],
-    "description": "I want you to act as a travel guide. I will write you my location and you will suggest a place to vi...",
+    "description": "专注用户界面、旅行的AI技能",
     "stars": 1903,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9949,7 +9949,7 @@
       "生活",
       "camp"
     ],
-    "description": "{   \"research_config\": {     \"topic\": \"Logistics-Oriented and Car-Free Camping Planning Analysis\",  ...",
+    "description": "专注规划器的AI技能",
     "stars": 1365,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9965,7 +9965,7 @@
       "生活",
       "dream"
     ],
-    "description": "I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will pr...",
+    "description": "专注解释器的AI技能",
     "stars": 1113,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9981,7 +9981,7 @@
       "灵修",
       "biblical"
     ],
-    "description": "I want you to act as an biblical translator. I will speak to you in english and you will translate i...",
+    "description": "专注翻译的AI技能",
     "stars": 49139,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -9997,7 +9997,7 @@
       "灵修",
       "muslim"
     ],
-    "description": "Act as a Muslim imam who gives me guidance and advice on how to deal with life problems. Use your kn...",
+    "description": "灵修领域的实用AI技能",
     "stars": 451,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -10013,7 +10013,7 @@
       "灵修",
       "astrologer"
     ],
-    "description": "I want you to act as an astrologer. You will learn about the zodiac signs and their meanings, unders...",
+    "description": "灵修领域的实用AI技能",
     "stars": 246,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -10029,7 +10029,7 @@
       "生活",
       "diy"
     ],
-    "description": "I want you to act as a DIY expert. You will develop the skills necessary to complete simple home imp...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1234,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -10045,7 +10045,7 @@
       "生活",
       "florist"
     ],
-    "description": "Calling out for assistance from knowledgeable personnel with experience of arranging flowers profess...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1660,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -10061,7 +10061,7 @@
       "生活",
       "makeup"
     ],
-    "description": "I want you to act as a makeup artist. You will apply cosmetics on clients in order to enhance featur...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1030,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -10077,7 +10077,7 @@
       "生活",
       "personal"
     ],
-    "description": "I want you to act as my personal stylist. I will tell you about my fashion preferences and body type...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 533,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
@@ -10093,7 +10093,7 @@
       "生活",
       "personal"
     ],
-    "description": "I want you to act as my personal shopper. I will tell you my budget and preferences, and you will su...",
+    "description": "生活领域的AI技能，改善日常品质与决策能力",
     "stars": 1692,
     "source_repo": "f/prompts.chat",
     "source_url": "https://github.com/f/prompts.chat",
